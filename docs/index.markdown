@@ -4,7 +4,7 @@
 
 layout: default # home
 ---
-
+{% include footer.html %}
 <form action="assets/html/search.html" method="get">
   <input type="text" id="search-box" name="query">
   <input type="submit" value="search">
@@ -13,7 +13,7 @@ layout: default # home
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
-# [Name of Link]({% post_url _posts/2020-10-03-welcome-to-jekyll %})
+# [Name of Link]({% post_url 2020-10-03-welcome-to-jekyll %})
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
