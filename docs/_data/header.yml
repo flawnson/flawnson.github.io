@@ -1,0 +1,11 @@
+docs_list_title: Testing
+docs:
+
+  - title: Search
+    url: search.html
+
+  - title: About
+    url: about.html
+
+  - title: Welcome
+    url: welcome-to-jekyll.html
