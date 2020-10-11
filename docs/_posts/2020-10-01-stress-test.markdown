@@ -2,14 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default # home
+layout: post # home
 ---
-{% include footer.html %}
-<form action="assets/html/search.html" method="get">
-  <input type="text" id="search-box" name="query">
-  <input type="submit" value="search">
-</form>
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
