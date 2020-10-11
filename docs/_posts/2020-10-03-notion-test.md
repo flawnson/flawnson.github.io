@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-10-03 20:23:18 -0400
-categories: jekyll update
+title:  "The Tools I use"
+categories: [Jekyll]
+tags: [featured, test]
+image: assets/images/12.jpg
 ---
 
 # The Tools I Use
