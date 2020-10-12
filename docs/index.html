@@ -149,10 +149,9 @@ description: "A blog by Flawnson"
 
         {% for post in paginator.posts %}
         
-            {% include main-loop-card.html %}
+            {% include mini-loop-card.html %}
         
         {% endfor %}
-        
         <div class="mt-5">
          <!-- Pagination links -->
             {% if paginator.total_pages > 1 %}

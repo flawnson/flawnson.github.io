@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-{% assign author = site.authors[page.author] %}
 <div class="container">
 <div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
 		<div class="h-100 tofront">
@@ -15,6 +14,7 @@ layout: default
                         </span>
 					</p>
 					<h1 class="display-4 mb-4 article-headline">{{ page.title }}</h1>
+                    <p class="">{{ page.created }}</p>
 <!--					<div class="d-flex align-items-center">-->
 <!--                        {% if author.avatar %}-->
 <!--                        <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="70"/>-->
@@ -68,7 +68,9 @@ layout: default
 			<article class="article-post">                
 			{{ content }}                
 			</article>
-			
+
+			<!-- Signature -->
+
 			<!-- Tags -->
 			<div class="mb-4">
 				<span class="taglist">
@@ -107,3 +109,5 @@ layout: default
         </div>
     </div>
 </div>
+
+<script src="../assets/js/main.js"></script>

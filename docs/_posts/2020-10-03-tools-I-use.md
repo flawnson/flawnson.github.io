@@ -1,18 +1,13 @@
 ---
 layout: post
-title:  "The Tools I use"
-categories: [Jekyll]
-tags: [featured, test]
-image: assets/images/12.jpg
+title: "The Tools I use"
+categories: [ development ]
+tags: [ tools, opinion, featured]
+created: Apr 17, 2020 10:00 PM
+image: assets/images/17.jpg
 ---
 
 # The Tools I Use
-
-Created: Apr 17, 2020 10:00 PM
-Edited: Sep 27, 2020 6:01 PM
-Publicised: No
-Subtopic: Tools
-Topic: Programming
 
 This page is for keeping track of the software and hardware I use on a regular basis, as well as instructions for setup and other customizations if reference needed in the future.
 
@@ -116,7 +111,7 @@ To copy the output (or files) from WSL bash to windows clipboard, pipe your comm
 
 ## Dotfiles
 
-[Copy of Important dotfiles](https://www.notion.so/f881760420a948af9c6f3dfb79cc57bf)
+[Important dotfiles](https://www.notion.so/f881760420a948af9c6f3dfb79cc57bf)
 
 Try to manage with git bare repository
 
@@ -132,7 +127,7 @@ Reference [Nickj Janetakis'](https://github.com/nickjj/dotfiles/blob/master/.tmu
 
 ## Desktop Apps
 
-[Copy of Apps](https://www.notion.so/9cf06c13a8fe4c8582ad6f456f8272ef)
+[Apps](https://www.notion.so/9cf06c13a8fe4c8582ad6f456f8272ef)
 
 ## Editors
 
@@ -174,6 +169,7 @@ Mainly use Powershell (for SSHing and environment management) unless there is so
 - UE Megaboom wireless speaker
 - Sony WH-CH700N Wireless Noise Canceling Headphones
 - 1MORE Triple Driver Hi-Res In Ear Monitors
+- Casio PX-5S Privia 88-Key Digital Stage Piano
 - Sony Walkman NW-A45 Digital Analog Converter
     - Compatible with Sony Music Center desktop app only
 
