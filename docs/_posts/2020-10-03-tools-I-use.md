@@ -7,55 +7,63 @@ created: Apr 17, 2020 10:00 PM
 image: assets/images/17.jpg
 ---
 
-# The Tools I Use
-
 This page is for keeping track of the software and hardware I use on a regular basis, as well as instructions for setup and other customizations if reference needed in the future.
+
+## PCs and OSs
+{:.no_toc}
+
+* A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
+{:toc}
+
 
 # Devices
 
-## PCs and OSs
+<table style="width:100%">
+  <tr>
+    <th>Asus Zenbook 14</th>
+    <th>Lenovo Flex 4</th>
+    <th>Acer Chromebook C740</th>
+  </tr>
+  <tr>
+    <td>Intel Core i7-8565U</td>
+    <td>Intel Core i7-6500U</td>
+    <td>Intel Celeron 3205U</td>
+  </tr>
+  <tr>
+    <td>Quad Core</td>
+    <td>Quad Core</td>
+    <td>Dual Core</td>
+  </tr>
+  <tr>
+    <td>1.5 GHz - 1.6GHz</td>
+    <td>2.5 GHz - 2.6GHz</td>
+    <td>1.5 GHz</td>
+  </tr>
+  <tr>
+    <td>16GB RAM</td>
+    <td>16GB RAM</td>
+    <td>4GB RAM</td>
+  </tr>
+  <tr>
+    <td>512GB SSD</td>
+    <td>512GB SSD</td>
+    <td>16GB SSD</td>
+  </tr>
+  <tr>
+    <td>Nvidia GeForce MX250</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Windows 10 Pro</td>
+    <td>Windows 10 Home</td>
+    <td>Chrome OS</td>
+  </tr>
+</table>
 
-Asus Zenbook 14,
+Nick J's videos, blogs, and other content on the topic are super useful.
 
-Intel Core i7-8565U Quad Core,
-
-1.5 GHz - 1.6GHz
-
-16GB RAM,
-
-512GB SSD,
-
-Nvidia GeForce MX250,
-
-Windows 10 Pro
-
-Lenovo Flex 4,
-
-Intel Core i7-6500U Quad Core,
-
-2.5 GHz - 2.6GHz
-
-16GB RAM,
-
-512GB SSD,
-
-WIndows 10 Home
-
-Acer Chromebook C740
-
-Intel Celeron 3205U Dual Core
-
-1.5 GHz
-
-4GB RAM,
-
-16GB SSD,
-
-Chrome OS
-
-Nick J's videos, blogs, and other content on the topic is super useful
-
-Some settings need to be manually changed for further customization
+Some settings need to be manually changed for further customization:
 
 - Turn on developer mode (Windows 10 Pro)
 - Turn on remote desktop (Windows 10 Pro)
@@ -183,3 +191,5 @@ Mainly use Powershell (for SSHing and environment management) unless there is so
 - Audio Apps
     - Audacity
     - Ableton Live 9
+
+<p id="modTime"></p>

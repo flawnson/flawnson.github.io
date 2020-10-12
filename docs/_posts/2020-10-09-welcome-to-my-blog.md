@@ -6,8 +6,6 @@ tags: [ opinion, featured ]
 created: Oct 9, 2020 9:29 PM
 image: assets/images/16.jpg
 ---
-# Welcome to my Blog
-
 Hello reader 😄
 
 I thought it rather unnecessary to write a welcome post, mostly because my goal is to write about things that maximize;
@@ -55,3 +53,5 @@ In regards to prose I plan to write in much the same way as I think. So kind of 
 - I'll make analogies and references that often don't make sense to a reader.
 
 Hopefully in time, I'll wrinkle out the creases and weed out inconsistencies. With the above in mind I hope you find my blog interesting at worst and inspiring at best.
+
+<p id="modTime"></p>
