@@ -1,8 +1,8 @@
 # Site
 name: 'Just A Word'
 description: 'A blog by Flawnson'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'assets/images/just-a-word-icon-small.jpg'
+favicon: 'assets/images/just_a_word_icon.ico'
 baseurl: '/flawnson.github.io'
 disqus: 'demowebsite'
 email: 'flawnsontong1@gmail.com'
