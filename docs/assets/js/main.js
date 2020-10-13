@@ -4,6 +4,6 @@ window.addEventListener("load",function lastMod() {
     document.getElementById("modTime").innerHTML = lastMod;
 },false);
 
-// window.addEventListener("load", function commit() {
-//     GitHubCalendar(".calendar", "flawnson", {responsive: true});
-// }, false);
+window.addEventListener("load", function commit() {
+    GitHubCalendar(".calendar", "flawnson", {responsive: true});
+}, false);
