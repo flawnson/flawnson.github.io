@@ -10,7 +10,6 @@ image: assets/images/14.jpg
 # Taking Notes
 # Content Management
 
-
 # Tools
 ## Anki
 I discovered Anki (and it's extended family of like-apps) a few years ago and was immediately hooked.
@@ -21,13 +20,15 @@ But sometimes there didn't exist a deck for something I wanted to study, or they
 So over the years I've created a few and improved upon a few decks.
 
 ## Programming
- - Vim Syntax
- - Vim Grammar
- - Docker Commands
- - tmux Commands
- - Linux Shell Shortcuts
+ - [CSS3 Properties](https://ankiweb.net/shared/info/1040699872)
+ - [Vim Syntax](https://ankiweb.net/shared/info/696023664)
+ - [Vim Grammar](https://ankiweb.net/shared/info/830530954)
+ - [Docker Commands](https://ankiweb.net/shared/info/34837427)
+ - [tmux Commands](https://ankiweb.net/shared/info/2087038373)
+ - [Linux Shell Shortcuts](https://ankiweb.net/shared/info/1795850591)
+ - [Linux Shell Commands](https://ankiweb.net/shared/info/1107282144)
  
 ## Miscellaneous
- - Notion Shortcuts
- - Personal Vocabulary
- - M1 Motorcycle exam prep
+ - [Notion Shortcuts](https://ankiweb.net/shared/info/1857967496)
+ - [Personal Vocabulary](https://ankiweb.net/shared/info/566811339)
+ - [M1 Motorcycle exam prep](https://ankiweb.net/shared/info/126927501)
