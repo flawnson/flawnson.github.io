@@ -59,9 +59,9 @@ Aeolian is also a mode used in music theory.
 
 ## Ablation
 Ablation has many unrelated definitions, so the one that applies depends on context:
-1. (In Biology/Neuroscience) The surgical removal of body tissue.
-2. (In Machine/Deep Learning) A procedure where certain parts of the network are removed, in order to gain a better understanding of the network’s behaviour.
-3. (In Climatology/Meteorology) The removal of snow and ice by melting or evaporation, typically from a glacier or iceberg.
+> "1. (In Biology/Neuroscience) The surgical removal of body tissue."
+> "2. (In Machine/Deep Learning) A procedure where certain parts of the network are removed, in order to gain a better understanding of the network’s behaviour."
+> "3. (In Climatology/Meteorology) The removal of snow and ice by melting or evaporation, typically from a glacier or iceberg."
 
 This song was by far the hardest of this series to play. To this day I can't play it perfectly, I often have to omit portions of what I intend to play. The speed at which it is to be played makes it difficult to emphasize certain notes and the range of keys played at a time stretches my hands to its physical limits. But it is one of my favorites for being a true labour of love.
 
@@ -80,6 +80,7 @@ There were a few obvious decisions to make when creating Foreshore:
 - To mimic the qualities of water; the visual sparkle, the rhythmic perturbations, the fluidity and viscosity, etc.
 
 ## Diffraction
+> "The bending of waves around the corners of an obstacle or through an aperture into the region of geometrical shadow of the obstacle/aperture."
 
 ## Nastic
 > "(of the movement of plant parts) caused by an external stimulus but unaffected in direction by it."
@@ -89,9 +90,11 @@ One day, I mindlessly played something I liked and kept building from there.
 The inspiration came from perceptual qualities of forests and jungles and I wanted to capture the mystery and wonder of those environments.
 
 Nyctinasty is the circadian rhythmic nastic movement of higher plants in response to the onset of darkness, or a plant "sleeping".
-## Flicker
+## Flicker/Smolder
+> "(of light or a source of light) shine unsteadily; vary rapidly in brightness."
 
-## Tectonic
+## Subduction/Tectonic
+> "Is a geological process that takes place at convergent boundaries of tectonic plates where one plate moves under another and is forced to sink due to high gravitational potential energy into the mantle."
 
 ## Streamflow
 > "Or channel runoff, is the flow of water in streams, rivers, and other channels, and is a major element of the water cycle."
