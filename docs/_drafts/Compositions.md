@@ -45,6 +45,8 @@ And so I humbly present a little peek into my psyche.
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
 
+> "Music is the voice that tells us that the human race is greater than it knows." - Napoleon Bonaparte
+
 # Movement Series
 
 ## Aeolian
@@ -55,6 +57,7 @@ This is possibly the earliest melodies I created (2016??) and kept in mind for a
 To me, the melody has an airy quality, constantly flowing and moving freely without dwelling on any moment. Icarus takes flight for the first time. It's only at the bridge does the tone and pace reflect a calmer, more composed, and mildly concerning stance. Icarus rises above the clouds and flies closer to the sun. By the third act we reach the twist; Icarus survives! He soars above and beyond the clouds and disappears into the horizon.
 
 Aeolian is also a mode used in music theory.
+
 ## Gravity
 
 ## Ablation
@@ -90,6 +93,7 @@ One day, I mindlessly played something I liked and kept building from there.
 The inspiration came from perceptual qualities of forests and jungles and I wanted to capture the mystery and wonder of those environments.
 
 Nyctinasty is the circadian rhythmic nastic movement of higher plants in response to the onset of darkness, or a plant "sleeping".
+
 ## Flicker/Smolder
 > "(of light or a source of light) shine unsteadily; vary rapidly in brightness."
 
@@ -98,4 +102,48 @@ Nyctinasty is the circadian rhythmic nastic movement of higher plants in respons
 
 ## Streamflow
 > "Or channel runoff, is the flow of water in streams, rivers, and other channels, and is a major element of the water cycle."
+
+# Love Series
+
+## Philia
+
+> "Affectionate Love"
+
+
+## Storge
+
+> "Familiar Love"
+
+
+## Eros
+
+> "Romantic Love"
+
+
+## Ludus
+
+> "Playful Love"
+
+
+## Mania
+
+> "Obsessive Love"
+
+
+## Philautia
+
+> "Self Love"
+
+
+## Pragma
+
+> "Enduring love"
+
+For my sister Jasmine, 
+
+## Agape
+
+> "Selfless love"
+
+For the person who is the only reason why I had the gall to release the music I made in the first place: Ramy Zhang.
 

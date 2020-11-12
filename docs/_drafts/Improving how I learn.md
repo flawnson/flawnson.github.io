@@ -12,6 +12,12 @@ I like letting work show for itself, but as a way to supplement my lack of forma
 # Practicing
 How I practice depends on what I'm trying to develop.
 # Taking Notes
+One of the biggest gripes I have with the linear system of documentation and note taking is that it has bad support for references (graphs)
+Tennis Players and Motoryclists (mind automatically isolates and filters noise from details, and tries to commit it to memory)
+Why Bio and Med kids succeed with Anki better than Math and CS/SE kids (Mind is trained on a sparse, discrete, limited set of items like a tennis court)
+Roam (Manual) vs Metacademy (Curated) vs everynoiseatonce (Automated)
+Learning is all about building and maintaining connections. Anki uses flashcards to build connections between concepts with a one to one mapping.
+Practice tests and questions are used to sharpen existing connections.
 # Content Management
 
 # Tools
