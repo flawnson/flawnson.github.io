@@ -23,29 +23,35 @@ From that moment on, I loved the piano. To this day, even after having long forg
 There was even a time when I wanted to be a composer for film score or producer for EDM; music has meant, still means, and will always mean a lot to me.
 
 I took weekly lessons with a tutor until reaching grade 8 or something pathetic, before finally quiting and continuing on my own.
-Today I listen to music about 4-6 hours daily, (including the hours I play piano).
+Today I listen to music about 6-8 hours daily, (including the hours I play piano).
+I also play a bit of guitar and bang around on the old drum kit at home. When I'm feeling chaotic I'll pull out my Otamatone (my wah wah boi as I like to call it).
 On Spotify I have playlists for just about anything, from EDM to Metal, Trap to Indie, Pop to Ambience, Electro-Swing to Future-Funk; if it slaps, it slaps.
-But a little less than half my time with music is spent with instrumental/orchestral music, all 15,000+ songs, which I keep locally on iTunes (MP3s) or Sony Music Center (Hi-Res).
+But a little less than half my time with music is spent with instrumental/orchestral music, all 15,000+ songs, which I keep locally on iTunes (MP3s, AACs, etc.) or Sony Music Center (FLACs, AIFFs, etc.).
+
+It is to this genre that I must swear fealty. Almost anything I make owes its existence to Two Steps From Hell, Really Slow Motion, and Audiomachine.
+If you are familiar with the genre you may notice that my style, prose, and sound is noticeably similar.
+
+> "Music is the voice that tells us that the human race is greater than it knows." - Napoleon Bonaparte
 
 Throughout my life I used the piano as an emotional outlet. To vent and to release, to comfort me when I'm sad and lift me higher when I'm happy.
 I struggle to play in front of people because of how deeply personal the piano and music in general is to me. I feel as if I'm revealing my soul to the audience.
-But I figure if I enjoy it so much, even if there's a small chance someone else will enjoy hearing it, I might as well provide the opportunity.
-The final push was by my girlfriend, who inspired me to finish some things I was working on and to publish them, however mediocre they might be.
+Recently I figured that if I enjoy it so much, even if there's a small chance someone else will enjoy hearing it, I might as well provide the opportunity.
+The final push was by my girlfriend, who inspired me to finish what I was working on and to publish them, however mediocre they might be.
 
-Playing piano is like observing snowflakes; everytime is different, every time you sit and play you create something new.
+Playing piano is like observing snowflakes; every time is different, every time you sit and play you create something new.
 
 Playing piano is like having a conversation; you talk by playing a key and the piano responds by singing a note.
 
 Playing piano is like giving yourself a hug; you play something beautiful and you get to hear it. Only you.
 
-And so I humbly present a little peek into my psyche.
+To quote a lyric from one of my favorite songs:
+
+> "No one knows me like the piano" - Sampha
 
 {:.no_toc}
 
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
-
-> "Music is the voice that tells us that the human race is greater than it knows." - Napoleon Bonaparte
 
 # Movement Series
 
@@ -84,6 +90,9 @@ There were a few obvious decisions to make when creating Foreshore:
 
 ## Diffraction
 > "The bending of waves around the corners of an obstacle or through an aperture into the region of geometrical shadow of the obstacle/aperture."
+
+This is meant to be a simple tune that takes advantage of the entire range of notes on the piano, analogous the range of visible light (colour) in the electromagnetic spectrum.
+I focused on retaining a constant pace - analogous to the constant speed of light - and on skipping around keys - analogous to how light bends, the effect of which lends its name to this song.
 
 ## Nastic
 > "(of the movement of plant parts) caused by an external stimulus but unaffected in direction by it."

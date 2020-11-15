@@ -11,13 +11,20 @@ The rest of my time is spent learning how to do those activities.
 I like letting work show for itself, but as a way to supplement my lack of formal training, perhaps this post will help show how seriously I take learning, from study to practice.
 # Practicing
 How I practice depends on what I'm trying to develop.
+
 # Taking Notes
 One of the biggest gripes I have with the linear system of documentation and note taking is that it has bad support for references (graphs)
 Tennis Players and Motoryclists (mind automatically isolates and filters noise from details, and tries to commit it to memory)
 Why Bio and Med kids succeed with Anki better than Math and CS/SE kids (Mind is trained on a sparse, discrete, limited set of items like a tennis court)
 Roam (Manual) vs Metacademy (Curated) vs everynoiseatonce (Automated)
-Learning is all about building and maintaining connections. Anki uses flashcards to build connections between concepts with a one to one mapping.
-Practice tests and questions are used to sharpen existing connections.
+Previously I thought that the different strategies used in learning (rote memorization, practice testing, etc.) each emphasized a particular function for learning.
+Now I am more convinced that any learning strategy is a method of exercising one central function; the creation and maintenence of connections.
+Rote memorization with flashcards creates a one-to-one connection between two previously unconnected ideas/concepts (an edge of a bipartite graph perhaps).
+Practice testing math questions strengthens the connections between question and answer, creating a more robust understanding due to slight variations in the question set (a hyperedge perhaps).
+Elaboration/analogization of new concepts creates new connections with previously known concepts (most often with existing concepts that are already well established) to further understand new concepts from multiple perspectives. (Creating a new edge between two disconnected graphs)
+
+In conjunction with both macro and micro scheduling strategies (spaced repetition and interleaving) all the above strategies make quick work of any new concept.
+
 # Content Management
 
 # Tools
