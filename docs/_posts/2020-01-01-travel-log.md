@@ -2,7 +2,7 @@
 layout: post
 title: "Travel log"
 categories: [ travel ]
-tags: [ featured]
+tags: [ featured ]
 created: Jan 01, 2020 11:48 AM
 image: assets/images/12.jpg
 ---
@@ -30,6 +30,7 @@ Not every trip is logged here, just the ones I think are worth reading. Some tri
 - Hustle into Le Hotel de Paris to catch private viewing of fireworks
 - Uber back to the hotel and ruminate until it's time to fly back
 - Pass out on the plane, lose left earbud when it lands
+
 # Jan 11th 2020, Dublin - Ireland
 - Got to the hostel at night, met my roomies, a man from Detroit who had come to Dublin for business (probably tax related), two friends of native breed that were there temporarily as they searched for a more permanent abode, two South Korean girls who had come to Europe to study English as part of their academic requirements
 - Went to sleep after doing some light work and reading (Wait but Why article series)
@@ -40,6 +41,7 @@ Not every trip is logged here, just the ones I think are worth reading. Some tri
 - Walked back to Generator hostel, went to lighthouse theatre accross the street, bought ticket for 1917, sat at cafe and worked until movie time, watched 1917 (almost cried twice), waited outside theatre after movie, snuck in for Uncut Gems
 - Went back to hostel, showered, slept
 - Woke up after 8 hours went across the street to Chopped 2.0, worked for a while, had call with Will Hamilton and team, worked some more, walked to bus station, caught bus to airport
+
 # Jan 18th 2020, Oslo - Norway
 - Caught the coach bus to Stansted in the morning, got to the airport, worked and relaxed until flight. Landed in Oslo, got a cinnamon bun at the airport W.B Samson
 - Caught a train direct to Oslo central station, walked around and headed straight for the hostel. Rented linen, dropped off stuff in room
@@ -51,6 +53,7 @@ Not every trip is logged here, just the ones I think are worth reading. Some tri
 - Stayed to see the sunset, walked back down to the city, roamed around for a bit, then walked back to hostel. Stopped by 7-11, stole a protein bar. Worked and called Agosh and Nikhil, went to room (roomates left) to shower, work a bit and sleep
 - Woke up, packed my things, stopped by a couple grocery stores and 7-11s to steal 2 more protein bars. Walked to the train station's Burger King, spent my last Norwegian Krona on 2 cheeseburgers. Took the express train back to the airport
 - Roamed the airport, sat and read articles, blogs, and the like until flight time. Before boarding, went to the duty-free store and stole and ate a chocolate bar before passing the gate to board.
+
 # Jan 27th 2020, Bratislava - Slovakia
 - Woke up early to catch the coach bus to Stansted Airport, got a traditional pasty, ate it before going through security. Waited a while to board, boarded to designated seat window side (but no window?)
 - Landed in the morning, pretty cloudy, looks like it's going to rain, get through border control, get 3 day bus ticket, catch the 61 bus to the city center.
@@ -62,6 +65,7 @@ Not every trip is logged here, just the ones I think are worth reading. Some tri
 - Headed over to Polito cheesecake, got a pistachio and raspberry cheesecake, went to La Donuteria and got a love at first bite (cookies and cream) donut, walked over to the Eurovea mall, roamed around, went to the Decatholon sports store, bought a pair of boxing hand protectors and workout gloves
 - Walked back to the hostel, headed down to the bar and redeemed my free beer coupon, relaxed and watched Dark Waters, moved to kitchen, finished dark waters, went back to room, showered, watched my neighbor Totoro, called it an early night
 - Woke up relatively early, packed my stuff headed for the Promod mall, roamed around, went to IKEA across the street, had breakfast at the restaurant, caught the bus to the airport, flew back to London
+
 # Feb 16th 2020, Berlin - Germany
 - Got to the airport extra early, slept on the plane, landed, Sagar saw me as I was exiting the plane, and we waited for Alex after passport control
 - Walked to the train station right outside schonefeld, got 4 day train tickets and caught the train to Berlin central station. Got off early at the wrong station at Alex's behest, went to Dunkin Donuts, got BOGO donuts (Valentines day deal), went back to the station and caught the same train to central station
@@ -72,6 +76,7 @@ Not every trip is logged here, just the ones I think are worth reading. Some tri
 - Had dinner with Sagar at Poke place next to the Vegan Viet restaurant that Licia wanted to go to, roamed the nearby market and tried a sploch of super spicy hot sauce, caught up with the gang, continued to roam Berlin, got some beer bottle stoppers from the Transit Souvenir shop
 - Went back to the flat, split with Sagar and Alex to a nearby bar, had a beer, chilled for a while, headed back to the flat, took a shower, Eli and Mumbai dude arrived at our flat, played Drink Drank Drunk for a while before heading out to YAAM. Walked and flirted with Eli and Johanna to the club, danced with the Yes fam, chilled out at the bar, had Alex and Sagar get me back for the beers earlier and gave a beer to Eli, left with Licia, Emily and Euon on an Uber back to the flat
 - Got back to flat, showered, packed, slept for a couple hours, left with Licia back to Schonefeld, waited for security scanning (let around 7 groups of people past us because they were late for their flight) chilled and talked with Licia until our flight, parted ways before take off
+
 # Mar 2nd 2020, Gdansk - Poland
 - Landed at 12am on Sunday, got an Uber to the hostel, picked up my card from the security guard, struggled with finding my room until I got help from a stranger, took a shower and went straight to sleep
 - Woke up, got changed, went straight for breakfast at the cafe had ginger coffee and cheesecake, walked around and over to the amber museum, toured around and toook lots of pictures, had a brief look at the history of the local area
@@ -79,6 +84,7 @@ Not every trip is logged here, just the ones I think are worth reading. Some tri
 - Left the basilica and walked to Pyra bar for this potato dish, walked back to the harborfront and toured the entire area before settling at a Starbucks and got a Chai Latte where I sat and worked for a couple hours. Walked back to the hostel, showered, finished watching Lewyn Davis and the first two episodes of Clone Wars season 7 and slept
 - Woke up, packed my things, toured the area and walked to the Madison Shopping mall, took a brief break before walking to the European solidarity center, toured the communist history museum before settlling at the library and working for a bit and relaxing on the beanbag at the birdsnest at the top floor of the library. Took the elevator to the rooftop terrace of the building for a view of the city
 - Walked to Pierogarnia Mandu Centrum and got 10 traditional pierogies, as well as 6 chocolate and raspberry pierogies. Toured the area and settled at the Salty caramel ice cream parlor, got 2 ice creams before getting an Uber back to the airport and flying out
+
 # Jul 20th 2020, Saguenay (Quebec) - Canada
 - Got picked up by Sean and Jason in the morning, drove over to Alexander's and picked him up too, started the drive to Mont Tremblant
 - Made a stop at ONRoute for a pit stop and to swap driving, drove the rest of the way to Mont Tremblant, hopped over the observation deck to reach the beach
@@ -101,6 +107,7 @@ Not every trip is logged here, just the ones I think are worth reading. Some tri
 = Walked around a nearby market and mall before reaching Pariliament and the Centennial Flame
 - Walked back to our Airbnb in the rain and called it a night
 - Drove the ways back to Toronto at the ZipCar drop off location and got picked up by Amy before heading to a COVID testing center
+
 # Jul 20th 2020, Sudbury (Ontatio) - Canada
 - Drove to Waterloo the night before and stayed at Agosh/Nikhil/Ishan's place for the night
 - We talked about Eastern vs Western culture (inverted caste system, morals of people, etc.)

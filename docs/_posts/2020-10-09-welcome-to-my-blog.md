@@ -52,6 +52,11 @@ In regards to prose I plan to write in much the same way as I think. So kind of 
 - I often throw parenthetical statements into my sentences to cover edge cases.
 - I'll make analogies and references that often don't make sense to a reader.
 
-Hopefully in time, I'll wrinkle out the creases and weed out inconsistencies. With the above in mind I hope you find my blog interesting at worst and inspiring at best.
+Due to these points, I'll often use notation I've picked up over time. This is a list of what they mean:
+
+- When writing and analogy, A : B :: C : D means A is to B as C is to D
+- s.t, i.e, e.g, wrt, w/o, bc, etc. (literally and functionally) mean what they usually do
+
+Hopefully in time, I'll smooth out the creases and weed out inconsistencies. With the above in mind I hope you find my blog interesting at worst and inspiring at best.
 
 <p id="modTime"></p>

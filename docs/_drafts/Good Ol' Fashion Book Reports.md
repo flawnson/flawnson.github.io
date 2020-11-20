@@ -140,7 +140,37 @@ Kurzweil manages to break down some super complex topics into simple concepts th
  - Metaphor is a language concept that most commonly occurs when the subject has a strong knowledge base of multiple areas (so that we can compare and find similarities to make metaphors), and when the subject has a high degree of freedom-of-thought (so that they have the desire and audacity to make connections between areas)
 
 # The Craft of Research - Wayne C. Booth and Co.
+Side note; this was the first time I ever directly highlighted in the physical copy of a book. I found it very useful for future reference.
+There were so many good one-liners in the book, and it would often make self-referential statements (I suppose they had to do a lot of research about the very act of doing research, so it makes sense).
+I found that many of the key takeaways are concepts you could acertain by simply reading a lot of papers, but much of their advice provides a methodological approach.
+Finally, I think this book helped me read as well as write better academic content.
+
 ## Key Takeaways
+
+ - "When you write for others you demand more of yourself than when you write for yourself alone" summarizes why I blog.
+ - Applied Research : Pure Research :: Industry Research : Academic Research
+ - "A question raises a problem when if not answering it keeps us from knowing something greater than its answer" is the key to asking good questions.
+ - I notice the emphasis of focusing on the PROBLEM first and not the solution is a common point from the startup world (echoes Peter Thiel's words in 0-1)
+ ![Research Cycle](../assets/images/research-cycle.png){:class="img-responsive"}
+ - Take advantage of both forwards and backwards citation. When optimizing for recency, the strategy is especially useful.
+ - "When you acknowledge the views of others, you show that you not only know those views, but you have carefully considered and can now confidently respond to them" is an excellent argument strategy
+    - Reminds me of advice from Shaan; To acknowledge your own shortcomings and insecurities and use them as a tool or a weapon
+ - When to quote, paraphrase, or summarize:
+    - If you want/need to fairly challenge a view, respect the authority of the quoter, or frame an argument with a compelling statement
+    - Paraphrase when specific words are less important than it's meaning
+    - Summarize when useful for context but not directly relevant
+ - "In a research argument you make a claim, back it with reasons supported bu evidence, acknowledge and respond to other views, and sometimes explain your principles of reasoning" is actually how we commonly communicate.
+ ![Research Warrants](../assets/images/research-warrants.png){:class="img-responsive"}
+ - A warrant is a principle that connects a reason to a claim (instead of validity, the relevance might be challenged)
+ - Your ethos is the character you project in your arguments; I supposed even this blog has an ethos of sorts.
+ - Assume the opposite; a strategy that is useful for evaluation as it is for exploration. To test the fallibility of your claim, consider the opposite. If the opposite is obvious or trivial, the claim is not worth an argument.
+ - To "hedge one's bets" applies to the realm of research as well. Writing an assertion like "we state the" vs a hedged request "we wish to propose" makes all the difference. (But don't sound like a wuss)
+ - Remember the predictable disagreements:
+    - There are causes in addition to the one you claim (No cause has a single effect and no effect has a single cause)
+    - Qeueu the counterexamples (Be wary when you make claims that have a high degree of variation or opinion)
+    - I don't define x the same way you do (If you argument relies on the definition of a term or concept, define it, perhaps with a subordinate argument as support)
+  - It's better for the reading to say "I don't agree" than for them to say "I don't care"
+  - Remember active vs passive voice, simple subject, whole subject, verb, noun, clause
 
 # The Richest Man in Babylon - George S. Clason
 
@@ -156,8 +186,8 @@ These lessons are still relevant to this day. This books is easily the most quot
  - Our acts can be no wiser than our thoughts
  - Better a little caution than a great regret
  - The hungrier one becomes, the clearer one's mind works. Also the more sensitive one becomes to the odour of food
-  - The "odour" is therefore analogous to opportunity, and "food" is analogous to money, at least in the context of this book.
-  - The point is, that your ability to both survive and thrive depend on your desire to do both, which leads us to the next lesson:
+    - The "odour" is therefore analogous to opportunity, and "food" is analogous to money, at least in the context of this book.
+    - The point is, that your ability to both survive and thrive depend on your desire to do both, which leads us to the next lesson:
  
 ![Angry Lion](../assets/images/angry-lion.jpg){:class="img-responsive"}
 
@@ -168,6 +198,11 @@ These lessons are still relevant to this day. This books is easily the most quot
 
 # A Programmer's Introduction to Mathematics - Jeremy Kun (IN PROGRESS)
 ## Key Takeaways
+
+ - There are many direct analogs between programming and mathematics
+    - Set builder notation is literally just a list comprehension
+    - Proof by induction is just a recrsive algorithm
+    - 
 
 # Gödel, Escher, Bach - Douglas R. Hofstadter (IN PROGRESS)
 ## Key Takeaways

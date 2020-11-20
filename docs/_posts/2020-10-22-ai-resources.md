@@ -100,6 +100,7 @@ Machine Learning doesn't require a serious technical background in computer scie
     - This book by Googler Jeremy Kun is a fresh take on Math for Programmers
 
         [Dr. Jeremy Kun - A Programmer’s Introduction to Mathematics (2018).pdf](My%20Programming%20Journey%208bffcf473b344ee08f7b611d9c797dc0/Dr._Jeremy_Kun_-_A_Programmers_Introduction_to_Mathematics_(2018).pdf)
+        - Check out his well-known blog too: [Math ∩ Programming](https://jeremykun.com/)
 
 - Linear Algebra
     - Khan Academy yes, 3Blue1Brown yes, but there are alot of other good stuff out there
@@ -181,8 +182,14 @@ Machine Learning doesn't require a serious technical background in computer scie
 - [Distill](https://distill.pub/) is so well curated that some people actually consider it to be on par with mid to top tier research papers in terms of quality of content. Many people on the notoriously serious [ML subreddit](https://www.reddit.com/r/MachineLearning/) also approve (which you should definitely follow).
 - [Paperspace Blog](https://blog.paperspace.com/) is another one of those gems hidden in the pile of noise on the internet. Created by the Paperspace company (who does cloud and A.I stuff), the blog gathers quality content, approved by the company itself, who pays it’s writters with GPU credit (pretty clever).
 - Remember to try and keep your ego and biases away from studying. [This Stack Exchange dicussion](https://academia.stackexchange.com/questions/37021/why-is-it-bad-to-judge-a-paper-by-citation-count) is an example of why something as simple as citation count should be regarded with skepticism.
-- [Deepai.org](https://deepai.org/) is especially good for keeping up with business, research, and all other things A.I
-- [Arxiv Sanity](http://www.arxiv-sanity.com/), [Deep Learning Monitor](https://deeplearn.org/), and [42Papers](https://42papers.com/) are 3 websites to help you keep up to date with the rapidly changing world of machine learning
+- Here are 7 websites to help you keep up to date with the rapidly changing world of machine learning:
+    - [Arxiv Sanity](http://www.arxiv-sanity.com/)
+    - [Deep Learning Monitor](https://deeplearn.org/)
+    - [Papers with Code](https://paperswithcode.com/)
+    - [Connected Papers](https://www.connectedpapers.com/)
+    - [42Papers](https://42papers.com/) 
+    - [Deepai.org](https://deepai.org/) 
+    - [Iris AI](https://the.iris.ai/) 
 
 ## Repositories and Tools
 
