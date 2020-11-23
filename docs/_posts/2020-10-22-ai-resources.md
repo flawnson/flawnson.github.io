@@ -48,7 +48,10 @@ Machine Learning doesn't require a serious technical background in computer scie
     - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)'s YouTube channel has garnered a huge following and with the quality and consistency of content, it's easy to see why. Useful for getting a high level understanding of just about anything you need to know in full stack web dev
 - Databases
     - There are many database paradigms. Having a general knowledge of the strengths and weaknesses of each will be supremely useful when it comes to building applications
-- Intermediate programming
+
+<details>
+    <summary> Intermediate programming </summary>
+  
     - Thorough knowledge and familiarity with advanced programming concepts like functions and classes is necessary. The quality of your programs will be hugely advanced, and some tools require knowledge in these concepts
         - There is this wonderfully written list of the top [mistakes beginner programmers make](https://edgecoders.com/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312). Through experience I found a lot of these mistakes to be true, and are often amplified when the programmer in question is self-taught. Calling yourself out on these mistakes will make you a better programmer.
         - To absolutely master Python, one should be aware of tips and tricks like [this](https://www.youtube.com/watch?v=VBokjWj_cEA), [this](https://www.youtube.com/watch?v=SNTZpy0oDB8), and [this](https://www.youtube.com/watch?v=9XQOd8ODNbs). You should know what are, and how to use dunder methods, decorators, and design patterns.
@@ -74,6 +77,8 @@ Machine Learning doesn't require a serious technical background in computer scie
             - Use [vimgenius](http://www.vimgenius.com/) to practice, or [vim adventures](https://vim-adventures.com/) if you're into that kinda thing
             - Pick up some basic [vimscript](https://learnxinyminutes.com/docs/vimscript/) along the way, and learn about [.vimrc](https://github.com/amix/vimrc)
             - Get destroyed by the pros over at [vimgolf](https://www.vimgolf.com/)
+</details>
+
 - Advanced Programming
     - To reach this point, one should have a strong foundation built with OOP, Data structures/Algorithms, and skills with some handy dev tools. Fluency in at least one language as well as some background in other languages (ideally one that is different from your native language) is beneficial.
         - Design Patterns have their criticisms, but are useful as they are ubiquitous. If you can a hand of the OG GoF textbook online, definitely give it a go, otherwise, settle for "Head first: Design Patterns", or "Dive into Design Patterns"
