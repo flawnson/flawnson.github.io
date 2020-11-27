@@ -9,8 +9,11 @@ image: assets/images/14.jpg
 A large portion of how I spend my life involves activities that I taught myself, including development, machine learning, and playing piano (mostly self-taught anyways).
 The rest of my time is spent learning how to do those activities.
 I like letting work show for itself, but as a way to supplement my lack of formal training, perhaps this post will help show how seriously I take learning, from study to practice.
+
 # Practicing
 How I practice depends on what I'm trying to develop.
+I use university worksheets (graciously provided by my friends at UWaterloo and UofT) to practice math, particularly proofs.
+I use Leetcode, Codewars, HackerRank, etc. to practice and test my DSA skills.
 
 # Taking Notes
 One of the biggest gripes I have with the linear system of documentation and note taking is that it has bad support for references (graphs)

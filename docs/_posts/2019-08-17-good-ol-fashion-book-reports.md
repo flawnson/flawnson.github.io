@@ -202,7 +202,7 @@ These lessons are still relevant to this day. This books is easily the most quot
  - There are many direct analogs between programming and mathematics
     - Set builder notation is literally just a list comprehension
     - Proof by induction is just a recrsive algorithm
-    - 
+    - testing: $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
 
 # Gödel, Escher, Bach - Douglas R. Hofstadter (IN PROGRESS)
 ## Key Takeaways

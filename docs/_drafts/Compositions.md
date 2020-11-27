@@ -59,6 +59,11 @@ To quote a lyric from one of my favorite songs:
 > "Relating to or arising from the action of the wind."
 
 This is possibly the earliest melodies I created (2016??) and kept in mind for all these years until I completed it in 2020. I distinctly remember how playing it made me feel better during tough times.
+The original inspiration came from the first time I watched a particular scene in the Harry Potter movie series.
+In the 5th movie, Order of Pheonix, the dastardly Professor Umbridge has kept the students of Hogwarts under her iron fist.
+As the students are writing their O.W.Ls, (the wizard/witch version of the S.A.T), Fred and George Weasley burst into the great hall flying on broomsticks and throwing magical fireworks.
+The awesome soundtrack by Nicolas Hooper stuck with me over all those years and directly inspired
+The music from Patrick Doyle, Alexandre Desplat, and of course John Williams (who scored the other movies) stuck with me as well.
 
 To me, the melody has an airy quality, constantly flowing and moving freely without dwelling on any moment. Icarus takes flight for the first time. It's only at the bridge does the tone and pace reflect a calmer, more composed, and mildly concerning stance. Icarus rises above the clouds and flies closer to the sun. By the third act we reach the twist; Icarus survives! He soars above and beyond the clouds and disappears into the horizon.
 
@@ -87,6 +92,11 @@ There were a few obvious decisions to make when creating Foreshore:
 - To maintain some notion of consistency and reptition, like the tide.
 - To utilize the entire range of notes on the piano, representing the depths of large bodies of water.
 - To mimic the qualities of water; the visual sparkle, the rhythmic perturbations, the fluidity and viscosity, etc.
+
+Some of my favorite aquatic themes:
+- Donkey Kong Country: Underwater Ambience - 
+- Mario 64: Water Level theme - 
+- Ori and the Blind Forest: The Waters Cleansed - 
 
 ## Diffraction
 > "The bending of waves around the corners of an obstacle or through an aperture into the region of geometrical shadow of the obstacle/aperture."
