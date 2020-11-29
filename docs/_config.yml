@@ -38,8 +38,6 @@ defaults:
 # Syntax
 markdown: kramdown
 highlighter: rouge
-kramdown:
-  parse_block_html: true
 
 # Paginate
 paginate: 5

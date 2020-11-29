@@ -56,6 +56,7 @@ Due to these points, I'll often use notation I've picked up over time. This is a
 
 - When writing and analogy, A : B :: C : D means A is to B as C is to D
 - s.t, i.e, e.g, wrt, w/o, bc, etc. (literally and functionally) mean what they usually do
+- Pseudocode, latex, UML diagram-style figures are all game
 
 Hopefully in time, I'll smooth out the creases and weed out inconsistencies. With the above in mind I hope you find my blog interesting at worst and inspiring at best.
 

@@ -194,17 +194,26 @@ These lessons are still relevant to this day. This books is easily the most quot
  - Where the determination is, the way can be found - Where there is a will, there is a way
 
 # The Book of Why - Judea Pearl (IN PROGRESS)
+A really dense book. I'm struggling to follow along at times and find myself rereading very often.
+This being my first introduction to A.I and congnitive sciences beyond Deep Learning, I find it's ideas very compelling.
+
 ## Key Takeaways
 
 # A Programmer's Introduction to Mathematics - Jeremy Kun (IN PROGRESS)
+Loving this book, it's perfect for people who's programming is stronger than their math, allowing you to maximize on those transferable skills.
+I read the corresponding chapters interleaved between episodes of 3Blue1Brown videos for that extra visual reinforcement.
+Notes and practice questions provided by UofT and Waterloo were also very helpful.
+
 ## Key Takeaways
 
  - There are many direct analogs between programming and mathematics
     - Set builder notation is literally just a list comprehension
     - Proof by induction is just a recrsive algorithm
-    - testing: $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+    - $$ \mapsto $$ is the mathematical analog of anonymous functions
 
 # Gödel, Escher, Bach - Douglas R. Hofstadter (IN PROGRESS)
+The preface was long and a bit intimidating, but it aptly set up the rest of the book.
+
 ## Key Takeaways
 
 <p id="modTime"></p>
