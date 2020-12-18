@@ -63,6 +63,8 @@ The only qualm I really have besides some feature requests (Google Cal integrati
 I discovered Roam when it was recommended by a friend, Abhinav Boyed, who thought my interest in graphs would apply nicely to a Notion-like personal CMS.
 In my humble opinion, Roam is best suited for specific types of information *ELEBORATION NEEDED*.
 
+[Link to my graph](https://roamresearch.com/#/app/Teleos/graph)
+
 ## Zotero
 Having using Zotero and Mendeley, I must say I prefer Zotero.
  
