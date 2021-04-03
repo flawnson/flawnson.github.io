@@ -77,7 +77,7 @@ Some settings need to be manually changed for further customization:
 - Logitech MX Anywhere 2S wireless mouse
     - Seriously great battery life (literally months at full charge)
     - Logitech Flow and Duolink are indispensable once adjusted to
-- Logitech K780 Multi-device wireless keyboard
+- Logitech MX Keys Multi-device wireless keyboard ~~Logitech K780 Multi-device wireless keyboard~~
 - Pluggable USB 3.0 Universal Laptop Docking Station
     - Requires Pluggable's proprietary driver for triple monitor support
 - HP 24es dual monitor displays
@@ -113,7 +113,7 @@ To copy the output (or files) from WSL bash to windows clipboard, pipe your comm
 
 - `command.txt | clip.exe`
 
----
+I keep track of my linux system packages on Notion:
 
 [*nix Systems Packages](https://www.notion.so/897c22d78650472f80c419bb8fca79fb)
 

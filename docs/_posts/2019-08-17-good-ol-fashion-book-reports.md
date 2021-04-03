@@ -6,7 +6,9 @@ tags: [ opinion, notes, featured ]
 created: Sept 21st, 2019 2:42 PM
 image: assets/images/13.jpg
 ---
-This post is to collect summaries and key takeaways from the books I read.
+This post is to collect summaries and key takeaways from the books I read. All summaries range from mostly to totally positive.
+This is because I only summarized books I've read in their entirety.
+If I didn't like a book I would have stopped reading it.
 I've kept track of every book since 2019, and often read a couple books at a time.
 
 {:.no_toc}
@@ -208,12 +210,33 @@ Notes and practice questions provided by UofT and Waterloo were also very helpfu
 
  - There are many direct analogs between programming and mathematics
     - Set builder notation is literally just a list comprehension
-    - Proof by induction is just a recrsive algorithm
+    - Proof by induction is just a recursive algorithm
     - $$ \mapsto $$ is the mathematical analog of anonymous functions
 
-# Gödel, Escher, Bach - Douglas R. Hofstadter (IN PROGRESS)
-The preface was long and a bit intimidating, but it aptly set up the rest of the book.
+# Gödel, Escher, Bach - Douglas R. Hofstadter (in progress)
+the preface was long and a bit intimidating, but it aptly set up the rest of the book.
 
-## Key Takeaways
+## Key takeaways
+
+# Cracking the Coding Interview (6th Edition) - Gayle L. McDowell (in progress)
+So far I'd describe the book as curt and to the point. Some ideas are obvious, but they're a good reminder.
+There are some nuggets of interesting and very compelling ideas scattered in each section.
+
+## Key takeaways
+ - When selecting candidates, false negatives are acceptable (rejecting people who are actually very good), but false positives (accepting people that are actually very bad) are not.
+ - Whiteboards let you focus on what matters. Like isolating the specific part they want to assess (your ability to think, analyze, and communicate)
+ - Nugget first; give a one-line summary of your story before speaking about the story
+ - Arrogance is mitigated with specificity
+ - Situation. Action. Result.
+ - Mind blowing: sometimes internet speeds are so slow, it might actually be faster to drive/fly across the country or world to deliver your data (linear time)
+ - When you see a problem where the number of elements in the problem space gets halved each time, that will likely be a 0( log N) runtime.
+ 
+# Platform Revolution - Geoffrey G Parker, Marshall Van Alstyne, and Sangeet Paul Choudary (Audiobook in progress)
+Recommended by Ben Blaizik.
+I'm loving the ample example-set provided with every argument presented.
+The authors don't rely so much on large tech giants and often use niche but relevant real world examples to prove their points.
+
+## Key takeaways
+
 
 <p id="modTime"></p>

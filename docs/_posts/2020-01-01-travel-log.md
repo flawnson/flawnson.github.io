@@ -11,6 +11,12 @@ Welcome to my travel log 😄 at some point I may split this up into sub-posts b
 
 Not every trip is logged here, just the ones I think are worth reading. Some trips involved multiple stops or destinations, the name of each section is the final destination.
 
+Some tips for cheap flights I've learned over the years:
+ - Use [Matrix Airfare Search](http://matrix.itasoftware.com/) for finding flights. Google acquired the company in 2011 (for almost $700M) and uses it for Google Flights.
+ - According to someone I met who works at Alaska Airlines, when searching for flights, always select for ONE person first before adding other passengers (apparently they infer your price bracket if you start with group flights).
+ - Ctrl/Command-Shift-n (visit the site as infrequently as possible, turn off cookies, and don't create an account).
+ - The earlier the better.
+
 {:.no_toc}
 
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above

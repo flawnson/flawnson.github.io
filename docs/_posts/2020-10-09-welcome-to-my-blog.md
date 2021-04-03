@@ -13,7 +13,8 @@ I thought it rather unnecessary to write a welcome post, mostly because my goal 
 - Value to readers
 - Value to myself
 
-A welcome to my blog does little to provide either benefit. In fact, if all goes as hoped, this will be the least mutually beneficial post I ever write.
+Just a word is a blog for me to keep track of happenings in my life. From IT administration to travel logs, from playlist organizers to learning resources, this is where I'll keep track of them all.
+Ironically, this welcome to my blog does little to provide either benefit. In fact, if all goes as hoped, this will be the least mutually beneficial post I ever write.
 
 So having made it this far, I'd like to dedicate this first post to you, the reader.
 
