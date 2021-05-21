@@ -51,7 +51,7 @@ Machine Learning doesn't require a serious technical background in computer scie
 
 <details>
     <summary> Intermediate programming </summary>
-  
+    <div>
     - Thorough knowledge and familiarity with advanced programming concepts like functions and classes is necessary. The quality of your programs will be hugely advanced, and some tools require knowledge in these concepts
         - There is this wonderfully written list of the top [mistakes beginner programmers make](https://edgecoders.com/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312). Through experience I found a lot of these mistakes to be true, and are often amplified when the programmer in question is self-taught. Calling yourself out on these mistakes will make you a better programmer.
         - To absolutely master Python, one should be aware of tips and tricks like [this](https://www.youtube.com/watch?v=VBokjWj_cEA), [this](https://www.youtube.com/watch?v=SNTZpy0oDB8), and [this](https://www.youtube.com/watch?v=9XQOd8ODNbs). You should know what are, and how to use dunder methods, decorators, and design patterns.
@@ -77,6 +77,7 @@ Machine Learning doesn't require a serious technical background in computer scie
             - Use [vimgenius](http://www.vimgenius.com/) to practice, or [vim adventures](https://vim-adventures.com/) if you're into that kinda thing
             - Pick up some basic [vimscript](https://learnxinyminutes.com/docs/vimscript/) along the way, and learn about [.vimrc](https://github.com/amix/vimrc)
             - Get destroyed by the pros over at [vimgolf](https://www.vimgolf.com/)
+    </div>
 </details>
 
 - Advanced Programming
@@ -200,6 +201,7 @@ Machine Learning doesn't require a serious technical background in computer scie
 
 - [Every library ever built on top of PyTorch.](https://github.com/bharathgs/Awesome-pytorch-list) That’s it.
 - [Udacity Nanodegrees - open sourced](https://github.com/mikesprague/udacity-nanodegrees): A repo of Nanodegree content straight from Udacity (no certificate)
+- []
 
 # **Know More**
 

@@ -53,12 +53,27 @@ To quote a lyric from one of my favorite songs:
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
 
-# Movement Series
+# Change Series
+
+## Papillon
+
+The first song is the most recent creation in this series. It is meant to summarize the purpose and reason for the creation of the other songs.
+It's played daintily with certain moments emphasized by volume, but otherwise fairly consistent.
+
+It's named "Papillon" (French for butterfly) primarily because of the way one's hands are positioned when playing this piece.
+The two thumbs are intertwined while the other finger are spread apart to imitate the wings of a butterfly.
+But to me, "Papillon" is a reference to something personal.
+The song starts small, change is hesitant, and the "wings" are kept close to a familiar and comfortable position.
+As the first movement plays out, the butterfly is forced to confront discomfort and change in pursuit of something beautiful.
+The key changes range from hopeful, to vigilant, and finally to joyful. But it always returns to its original verse.
+The song keeps its binary pattern up until the end, when the butterfly learns to break free.
+The final broken chords signify moving forwards towards an uncertain future, but the hands come together to imply that no matter where it goes, it will not forget its roots.
+
 
 ## Aeolian
 > "Relating to or arising from the action of the wind."
 
-This is possibly the earliest melodies I created (2016??) and kept in mind for all these years until I completed it in 2020. I distinctly remember how playing it made me feel better during tough times.
+This song stems from one of the earliest original melodies I created (2016??) and kept in mind for all these years until I completed it in 2020. I distinctly remember how playing it made me feel better during tough times.
 The original inspiration came from the first time I watched a particular scene in the Harry Potter movie series.
 In the 5th movie, Order of Pheonix, the dastardly Professor Umbridge has kept the students of Hogwarts under her iron fist.
 As the students are writing their O.W.Ls, (the wizard/witch version of the S.A.T), Fred and George Weasley burst into the great hall flying on broomsticks and throwing magical fireworks.
