@@ -56,9 +56,19 @@ In regards to prose I plan to write in much the same way as I think. So kind of 
 Due to these points, I'll often use notation I've picked up over time. This is a list of what they mean:
 
 - When writing and analogy, A : B :: C : D means A is to B as C is to D
-- s.t, i.e, e.g, wrt, w/o, bc, etc. (literally and functionally) mean what they usually do
+- s.t, i.e, e.g, wrt, w/o, bc, wlog, etc. (literally and functionally) mean what they usually do
 - Pseudocode, latex, UML diagram-style figures are all game
 
 Hopefully in time, I'll smooth out the creases and weed out inconsistencies. With the above in mind I hope you find my blog interesting at worst and inspiring at best.
+
+# FAQ
+
+Why does this blog look like Medium?
+I used to write a lot on Medium. I'm not very proud of those articles, but they were a good learning opportunity. Those old relics still garner views.
+
+What does "Just a Word" mean?
+It's a moniker derived from one of my favorite producers; Just a Gent.
+
+
 
 <p id="modTime"></p>

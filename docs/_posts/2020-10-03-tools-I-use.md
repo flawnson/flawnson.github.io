@@ -23,41 +23,49 @@ This page is for keeping track of the software and hardware I use on a regular b
     <th>Asus Zenbook 14</th>
     <th>Lenovo Flex 4</th>
     <th>Acer Chromebook C740</th>
+    <th>MacBook Pro 2020 13'</th>
   </tr>
   <tr>
     <td>Intel Core i7-8565U</td>
     <td>Intel Core i7-6500U</td>
     <td>Intel Celeron 3205U</td>
+    <td>M1 </td>
   </tr>
   <tr>
     <td>Quad Core</td>
     <td>Quad Core</td>
     <td>Dual Core</td>
+    <td>Octo Core</td>
   </tr>
   <tr>
     <td>1.5 GHz - 1.6GHz</td>
     <td>2.5 GHz - 2.6GHz</td>
     <td>1.5 GHz</td>
+    <td>3.2 GHz</td>
   </tr>
   <tr>
     <td>16GB RAM</td>
     <td>16GB RAM</td>
     <td>4GB RAM</td>
+    <td>8GB RAM</td>
   </tr>
   <tr>
     <td>512GB SSD</td>
     <td>512GB SSD</td>
     <td>16GB SSD</td>
+    <td>256GB SSD</td>
   </tr>
   <tr>
     <td>Nvidia GeForce MX250</td>
-    <td></td>
-    <td></td>
+    <td>N/A</td>
+    <td>N/A</td>
+    <td>Apple GPU</td>
   </tr>
   <tr>
     <td>Windows 10 Pro</td>
     <td>Windows 10 Home</td>
     <td>Chrome OS</td>
+    <td>MacOS Big Sur</td>
   </tr>
 </table>
 
@@ -154,19 +162,15 @@ There are a couple settings I do to customize my IDE a bit:
 
 ## Terminals
 
-Mainly use Powershell (for SSHing and environment management) unless there is something quick that needs to be done (git stuff, file/folder management)
+I mainly use Powershell (for SSHing and environment management) unless there is something quick that needs to be done (git stuff, file/folder management)
 
 [Conda Environments](https://www.notion.so/70962336821a49bab87c5beed9a1e0ac)
-
-***To properly install torch AND torch-geometric, one must use:
-
-`torch==1.4.0+cpu torchvision==0.5.0+cpu -f [https://download.pytorch.org/whl/torch_stable.html](https://download.pytorch.org/whl/torch_stable.html)` in the options input field of the PyCharm package manager when installing torch
 
 # Media
 
 ## Browser
 
-- I use chrome for all my online activities
+I use Chrome for all my online activities
 
 [Chrome Extensions](https://www.notion.so/bc4e9c883a23451e9309c1d3170c40fe)
 
