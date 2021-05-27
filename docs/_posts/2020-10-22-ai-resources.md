@@ -49,36 +49,34 @@ Machine Learning doesn't require a serious technical background in computer scie
 - Databases
     - There are many database paradigms. Having a general knowledge of the strengths and weaknesses of each will be supremely useful when it comes to building applications
 
-<details>
-    <summary> Intermediate programming </summary>
-    <div>
-    - Thorough knowledge and familiarity with advanced programming concepts like functions and classes is necessary. The quality of your programs will be hugely advanced, and some tools require knowledge in these concepts
-        - There is this wonderfully written list of the top [mistakes beginner programmers make](https://edgecoders.com/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312). Through experience I found a lot of these mistakes to be true, and are often amplified when the programmer in question is self-taught. Calling yourself out on these mistakes will make you a better programmer.
-        - To absolutely master Python, one should be aware of tips and tricks like [this](https://www.youtube.com/watch?v=VBokjWj_cEA), [this](https://www.youtube.com/watch?v=SNTZpy0oDB8), and [this](https://www.youtube.com/watch?v=9XQOd8ODNbs). You should know what are, and how to use dunder methods, decorators, and design patterns.
-        - Hilariously accurate, the response to [this thread on Stack Exchange](https://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru) outlines the progression that most Python programmers will experience.
-        - Be brutally honest and constantly inquisitive with your study in computer science; it will make a difference in everything else you learn and do. Here’s [a list of Python’s best kept secrets](https://stackoverflow.com/questions/101268/hidden-features-of-python) that spell the difference between boys and men
-        - Built by MIT, this course is your one stop shop for learning above and beyond what you could possibly learn in school. Here's [the missing semester of your CS education](https://missing.csail.mit.edu/)
-        - Organize your developer life with Git
-            - Read the [Git flow](https://nvie.com/posts/a-successful-git-branching-model/) and [Github flow](https://guides.github.com/introduction/flow/) branching models
-            - Here's a great [summary/cheatsheet for git](https://duzun.me/tips/git)
-        - Start learning terminal-level dev tools
-            - Go from command to Powershell
-            - Don't be too loyal to any one OS, install WSL to learn Linux
-                - One of the best courses for this is [Learn Linux the hard way](https://archive.is/xDb8o)
-                - As recommended by my dear friend Ananya: [Linux Journey](https://linuxjourney.com/) is a cute little website that teaches the ways of Linux
-                - If you're more of an interactive learner, I recommend [learnshell.org](http://learnshell.org) and [linuxsurvival.com](https://linuxsurvival.com)
-                - If you want to get down and dirty, [scripting](https://www.shellscript.sh/index.html) is an important know-how (Here's another excellent [guide on Shell programming](http://matt.might.net/articles/bash-by-example/#:~:text=Bash%20as%20a%20scripting%20language,the%20top%20of%20the%20file.&text=To%20execute%20the%20script%20from,%2Fpath%2Fto%2Finterpreter%20.))
-        - Bonus: Also start learning [vim](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor)
-            - Start with vimtutor (on mac and linux type in `vimtutor` in your terminal, on Windows... tough luck)
-            - Also have a peek at some of the many [vim cheatsheets](https://www.fprintf.net/vimCheatSheet.html) (there are many, I just linked the most generic one)
-            - In the meantime, use something like Anki to rote memorize commands
-            - Anki is for learning words, the [vim grammar](https://takac.github.io/2013/01/30/vim-grammar/) is for writing poetry
-            - Indoctrinate yourself as a vim vimmer by watching the top two ([1](https://www.youtube.com/watch?v=_NUO4JEtkDw), [2](https://www.youtube.com/watch?v=wlR5gYd6um0)) vim tutorials
-            - Use [vimgenius](http://www.vimgenius.com/) to practice, or [vim adventures](https://vim-adventures.com/) if you're into that kinda thing
-            - Pick up some basic [vimscript](https://learnxinyminutes.com/docs/vimscript/) along the way, and learn about [.vimrc](https://github.com/amix/vimrc)
-            - Get destroyed by the pros over at [vimgolf](https://www.vimgolf.com/)
-    </div>
-</details>
+{% capture details %}
+- Thorough knowledge and familiarity with advanced programming concepts like functions and classes is necessary. The quality of your programs will be hugely advanced, and some tools require knowledge in these concepts
+- There is this wonderfully written list of the top [mistakes beginner programmers make](https://edgecoders.com/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312). Through experience I found a lot of these mistakes to be true, and are often amplified when the programmer in question is self-taught. Calling yourself out on these mistakes will make you a better programmer.
+- To absolutely master Python, one should be aware of tips and tricks like [this](https://www.youtube.com/watch?v=VBokjWj_cEA), [this](https://www.youtube.com/watch?v=SNTZpy0oDB8), and [this](https://www.youtube.com/watch?v=9XQOd8ODNbs). You should know what are, and how to use dunder methods, decorators, and design patterns.
+- Hilariously accurate, the response to [this thread on Stack Exchange](https://stackoverflow.com/questions/2573135/python-progression-path-from-apprentice-to-guru) outlines the progression that most Python programmers will experience.
+- Be brutally honest and constantly inquisitive with your study in computer science; it will make a difference in everything else you learn and do. Here’s [a list of Python’s best kept secrets](https://stackoverflow.com/questions/101268/hidden-features-of-python) that spell the difference between boys and men
+- Built by MIT, this course is your one stop shop for learning above and beyond what you could possibly learn in school. Here's [the missing semester of your CS education](https://missing.csail.mit.edu/)
+- Organize your developer life with Git
+    - Read the [Git flow](https://nvie.com/posts/a-successful-git-branching-model/) and [Github flow](https://guides.github.com/introduction/flow/) branching models
+    - Here's a great [summary/cheatsheet for git](https://duzun.me/tips/git)
+- Start learning terminal-level dev tools
+- Go from command to Powershell
+    - Don't be too loyal to any one OS, install WSL to learn Linux
+        - One of the best courses for this is [Learn Linux the hard way](https://archive.is/xDb8o)
+        - As recommended by my dear friend Ananya: [Linux Journey](https://linuxjourney.com/) is a cute little website that teaches the ways of Linux
+        - If you're more of an interactive learner, I recommend [learnshell.org](http://learnshell.org) and [linuxsurvival.com](https://linuxsurvival.com)
+        - If you want to get down and dirty, [scripting](https://www.shellscript.sh/index.html) is an important know-how (Here's another excellent [guide on Shell programming](http://matt.might.net/articles/bash-by-example/#:~:text=Bash%20as%20a%20scripting%20language,the%20top%20of%20the%20file.&text=To%20execute%20the%20script%20from,%2Fpath%2Fto%2Finterpreter%20.))
+- Bonus: Also start learning [vim](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor)
+    - Start with vimtutor (on mac and linux type in `vimtutor` in your terminal, on Windows... tough luck)
+    - Also have a peek at some of the many [vim cheatsheets](https://www.fprintf.net/vimCheatSheet.html) (there are many, I just linked the most generic one)
+    - In the meantime, use something like Anki to rote memorize commands
+    - Anki is for learning words, the [vim grammar](https://takac.github.io/2013/01/30/vim-grammar/) is for writing poetry
+    - Indoctrinate yourself as a vim vimmer by watching the top two ([1](https://www.youtube.com/watch?v=_NUO4JEtkDw), [2](https://www.youtube.com/watch?v=wlR5gYd6um0)) vim tutorials
+    - Use [vimgenius](http://www.vimgenius.com/) to practice, or [vim adventures](https://vim-adventures.com/) if you're into that kinda thing
+    - Pick up some basic [vimscript](https://learnxinyminutes.com/docs/vimscript/) along the way, and learn about [.vimrc](https://github.com/amix/vimrc)
+    - Get destroyed by the pros over at [vimgolf](https://www.vimgolf.com/)
+{% endcapture %}
+{% capture summary %} Intermediate programming {% endcapture %}{% include details.html %}
 
 - Advanced Programming
     - To reach this point, one should have a strong foundation built with OOP, Data structures/Algorithms, and skills with some handy dev tools. Fluency in at least one language as well as some background in other languages (ideally one that is different from your native language) is beneficial.
@@ -96,6 +94,7 @@ Machine Learning doesn't require a serious technical background in computer scie
         - The [Real Python website](https://realpython.com/) is the internet’s best collection of in depth tutorials and lessons on literally anything to do with Python. I would tell you to read everything but it would probably take years to go through all the amazing content.
             - And if you’re going to learn Python, it’s mandatory that you know [NumPy](https://www.kaggle.com/sanikamal/notes-on-numpy).
     - Javascript
+        - [Colt Steele's JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) was recommended by my good friend Nikhil Budathoki, a student at UWaterloo's CS program.
     - Java
         - This is jumping ahead a bit but the Algorithms in Java textbook by Robert Sedgewick is great for learning the ins and out of Java as well as algorithms in CS
 
@@ -201,7 +200,6 @@ Machine Learning doesn't require a serious technical background in computer scie
 
 - [Every library ever built on top of PyTorch.](https://github.com/bharathgs/Awesome-pytorch-list) That’s it.
 - [Udacity Nanodegrees - open sourced](https://github.com/mikesprague/udacity-nanodegrees): A repo of Nanodegree content straight from Udacity (no certificate)
-- []
 
 # **Know More**
 
