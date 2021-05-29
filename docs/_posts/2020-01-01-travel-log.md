@@ -114,7 +114,7 @@ Some tips for cheap flights I've learned over the years:
 - Walked back to our Airbnb in the rain and called it a night
 - Drove the ways back to Toronto at the ZipCar drop off location and got picked up by Amy before heading to a COVID testing center
 
-# Jul 20th 2020, Sudbury (Ontatio) - Canada
+# Aug 18h 2020, Sudbury (Ontatio) - Canada
 - Drove to Waterloo the night before and stayed at Agosh/Nikhil/Ishan's place for the night
 - We talked about Eastern vs Western culture (inverted caste system, morals of people, etc.)
 - Morning of the trip we drove to Conestoga to pick up supplies/groceries (I had a Cinnabon)
@@ -133,3 +133,16 @@ Some tips for cheap flights I've learned over the years:
 - We drove around Sudbury with Taylor as our guide to the mall, the big nickel, etc.
 - We got food at Five Guys, where I had an insanely good Peanut Butter Milkshake
 - We dropped off Taylor and hit the road back to Waterloo
+
+# Dec 16th 2020, Paris - France
+- Almost got stopped before boarding the plane for concerns over illegitimate travel during the pandemic
+- Landed and spent the first night roaming the streets and eating the worst meal of the trip (that sketchy bowl of meat and rice)
+- Bought macarons and chocolates at Pierre Hermé Paris to eat with a bottle of wine
+- Visited the Notre Dame, the Arc de Triomphe, the Eiffel Tower, and several department stores
+- Tried food from local bakeries (Land&Monkeys, The French Bastards), patisseries (Yann Couvreur) and food stores (Carrefour, Picard, Monoprix, etc.)
+- Got tested for COVID at a local pharmacy with results returned in just 15 mins
+- Visited Amy and Raph for dinner (had truffle chips, Foie gras, and Galette)
+- Had some insane pizza, Thai food, Baguette with fig jam
+- Struggled to function and operate at a laundromat, zoomed around on electric scooters
+- Got locked out of the apartment and spent a night at a hotel below the Eifel Tower.
+- Visited the shopping district designer stores and ended up getting milkshake and fries at Five Guys.

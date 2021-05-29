@@ -59,6 +59,8 @@ Machine Learning doesn't require a serious technical background in computer scie
 - Organize your developer life with Git
     - Read the [Git flow](https://nvie.com/posts/a-successful-git-branching-model/) and [Github flow](https://guides.github.com/introduction/flow/) branching models
     - Here's a great [summary/cheatsheet for git](https://duzun.me/tips/git)
+    - GitHub and GitLab are two very popular repository management services that each have their uses
+        - Get familiar with Issues, Pull Requests, Licenses, OAuth, and automation tools like Github Actions
 - Start learning terminal-level dev tools
 - Go from command to Powershell
     - Don't be too loyal to any one OS, install WSL to learn Linux
@@ -66,23 +68,28 @@ Machine Learning doesn't require a serious technical background in computer scie
         - As recommended by my dear friend Ananya: [Linux Journey](https://linuxjourney.com/) is a cute little website that teaches the ways of Linux
         - If you're more of an interactive learner, I recommend [learnshell.org](http://learnshell.org) and [linuxsurvival.com](https://linuxsurvival.com)
         - If you want to get down and dirty, [scripting](https://www.shellscript.sh/index.html) is an important know-how (Here's another excellent [guide on Shell programming](http://matt.might.net/articles/bash-by-example/#:~:text=Bash%20as%20a%20scripting%20language,the%20top%20of%20the%20file.&text=To%20execute%20the%20script%20from,%2Fpath%2Fto%2Finterpreter%20.))
-- Bonus: Also start learning [vim](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor)
-    - Start with vimtutor (on mac and linux type in `vimtutor` in your terminal, on Windows... tough luck)
-    - Also have a peek at some of the many [vim cheatsheets](https://www.fprintf.net/vimCheatSheet.html) (there are many, I just linked the most generic one)
-    - In the meantime, use something like Anki to rote memorize commands
-    - Anki is for learning words, the [vim grammar](https://takac.github.io/2013/01/30/vim-grammar/) is for writing poetry
-    - Indoctrinate yourself as a vim vimmer by watching the top two ([1](https://www.youtube.com/watch?v=_NUO4JEtkDw), [2](https://www.youtube.com/watch?v=wlR5gYd6um0)) vim tutorials
-    - Use [vimgenius](http://www.vimgenius.com/) to practice, or [vim adventures](https://vim-adventures.com/) if you're into that kinda thing
-    - Pick up some basic [vimscript](https://learnxinyminutes.com/docs/vimscript/) along the way, and learn about [.vimrc](https://github.com/amix/vimrc)
-    - Get destroyed by the pros over at [vimgolf](https://www.vimgolf.com/)
 {% endcapture %}
 {% capture summary %} Intermediate programming {% endcapture %}{% include details.html %}
 
+
+{% capture details %}
 - Advanced Programming
     - To reach this point, one should have a strong foundation built with OOP, Data structures/Algorithms, and skills with some handy dev tools. Fluency in at least one language as well as some background in other languages (ideally one that is different from your native language) is beneficial.
         - Design Patterns have their criticisms, but are useful as they are ubiquitous. If you can a hand of the OG GoF textbook online, definitely give it a go, otherwise, settle for "Head first: Design Patterns", or "Dive into Design Patterns"
         - Youtube has a great wealth of design pattern resources, one of my favorites of which is a [playlist by Christopher Okhravi](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
         - This [brief video by William Lin](https://www.youtube.com/watch?v=bVKHRtafgPc&t=223s), a competitive programmer provides a great outline on how to get into programming
+    - Also start learning [vim](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor)
+        - Start with vimtutor (on mac and linux type in `vimtutor` in your terminal, on Windows... tough luck)
+        - Also have a peek at some of the many [vim cheatsheets](https://www.fprintf.net/vimCheatSheet.html) (there are many, I just linked the most generic one)
+        - In the meantime, use something like Anki to rote memorize commands
+        - Anki is for learning words, the [vim grammar](https://takac.github.io/2013/01/30/vim-grammar/) is for writing poetry
+        - Indoctrinate yourself as a vim vimmer by watching the top two ([1](https://www.youtube.com/watch?v=_NUO4JEtkDw), [2](https://www.youtube.com/watch?v=wlR5gYd6um0)) vim tutorials
+        - Use [vimgenius](http://www.vimgenius.com/) to practice, or [vim adventures](https://vim-adventures.com/) if you're into that kinda thing
+        - Pick up some basic [vimscript](https://learnxinyminutes.com/docs/vimscript/) along the way, and learn about [.vimrc](https://github.com/amix/vimrc)
+        - Get destroyed by the pros over at [vimgolf](https://www.vimgolf.com/)
+{% endcapture %}
+{% capture summary %} Intermediate programming {% endcapture %}{% include details.html %}
+          
 - General Programming resources
     - I literally worship Runestone Academy's library of courses. Each little course serves as a great touch up on topics you may have encountered before, or as a way to get your feet wet in something new, as I have with the [Java for Python programmers coursette](https://runestone.academy/runestone/books/published/java4python/Java4Python.html)
     - [Learn x in y minutes](https://learnxinyminutes.com/) is a collection of "tours" for a variety of programming stuffs
@@ -200,6 +207,7 @@ Machine Learning doesn't require a serious technical background in computer scie
 
 - [Every library ever built on top of PyTorch.](https://github.com/bharathgs/Awesome-pytorch-list) That’s it.
 - [Udacity Nanodegrees - open sourced](https://github.com/mikesprague/udacity-nanodegrees): A repo of Nanodegree content straight from Udacity (no certificate)
+- [Open ML University](https://curriculum.openmlu.com/?fbclid=IwAR2XbmCa8al5Hhgjd_17aKOu7-n_aRdBGUhIYKQv8UmGhuR462tJoD3FTbg): A project put together by an acquaintance Sang-Jin Kim.
 
 # **Know More**
 

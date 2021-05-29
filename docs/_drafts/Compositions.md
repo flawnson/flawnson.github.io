@@ -69,6 +69,8 @@ The key changes range from hopeful, to vigilant, and finally to joyful. But it a
 The song keeps its binary pattern up until the end, when the butterfly learns to break free.
 The final broken chords signify moving forwards towards an uncertain future, but the hands come together to imply that no matter where it goes, it will not forget its roots.
 
+This story describes my relationship with piano and composition.
+I think it's fitting that my first release is a reflection of the journey to get to this point.
 
 ## Aeolian
 > "Relating to or arising from the action of the wind."
