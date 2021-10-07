@@ -10,6 +10,9 @@ A large portion of how I spend my life involves activities that I taught myself,
 The rest of my time is spent learning how to do those activities.
 I like letting work show for itself, but as a way to supplement my lack of formal training, perhaps this post will help show how seriously I take learning, from study to practice.
 
+Some tips:
+Use the Table of Contents, the FAQ, etc.
+
 # Practicing
 How I practice depends on what I'm trying to develop.
 I use university worksheets (graciously provided by my friends at UWaterloo and UofT) to practice math, particularly proofs.

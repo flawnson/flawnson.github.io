@@ -102,6 +102,7 @@ Machine Learning doesn't require a serious technical background in computer scie
             - And if you’re going to learn Python, it’s mandatory that you know [NumPy](https://www.kaggle.com/sanikamal/notes-on-numpy).
     - Javascript
         - [Colt Steele's JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) was recommended by my good friend Nikhil Budathoki, a student at UWaterloo's CS program.
+        - [Scrimba](https://scrimba.com/) is an amazing website with interactive-video style courses on a variety of programming topics. I highly recommend the Intro to React tutorial!
     - Java
         - This is jumping ahead a bit but the Algorithms in Java textbook by Robert Sedgewick is great for learning the ins and out of Java as well as algorithms in CS
 

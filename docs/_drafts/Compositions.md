@@ -12,7 +12,7 @@ This post is for explaining the ideas and inspirations of the music I make.
 # Preamble
 Some of my earliest memories is deeply connected to music.
 My parents were believers in the "Classical music makes babies smart" school of thought, so I distinctly remember falling asleep to the delicate strings of Mozart and his contemporaries.
-To this day I often use music and ASMR to cure the occasional bout of insomnia.
+To this day I often use music, ambience, and ASMR to cure the occasional bout of insomnia.
 
 I started playing piano when I was young, around age 4.
 Back then I was more interested in Lego than music, so my mum would often have to drag me to the piano to sit and watch me practice.
@@ -53,23 +53,28 @@ To quote a lyric from one of my favorite songs:
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
 
-# Change Series
+# Movement Series
 
-## Papillon
+## Chenille | Papillon
+> "Metamorphosis personified"
 
-The first song is the most recent creation in this series. It is meant to summarize the purpose and reason for the creation of the other songs.
-It's played daintily with certain moments emphasized by volume, but otherwise fairly consistent.
+Technically, Papillon was made first, but naturally, Chenille is played first. The caterpillar comes before the butterfly.
+Chenille was written one day when I got bored of practicing Papillon and stumbled upon a "lazier" way to play it.
+Chenille is a version of Papillon where the chords are broken. The motion of the player's hands mimic the patterned crawl of a caterpillar.
+Although technically it is it's own song, it could be seen as the first part of a two part song.
 
-It's named "Papillon" (French for butterfly) primarily because of the way one's hands are positioned when playing this piece.
+The name "Papillon" (French for butterfly) comes from the way one's hands are positioned when playing the song.
 The two thumbs are intertwined while the other finger are spread apart to imitate the wings of a butterfly.
-But to me, "Papillon" is a reference to something personal.
+It's played daintily with certain moments emphasized by volume, but otherwise fairly consistent throughout.
+
+Papillon is the first song I ever publically released. It is meant to summarize the journey I took to creating my own music.
 The song starts small, change is hesitant, and the "wings" are kept close to a familiar and comfortable position.
 As the first movement plays out, the butterfly is forced to confront discomfort and change in pursuit of something beautiful.
 The key changes range from hopeful, to vigilant, and finally to joyful. But it always returns to its original verse.
 The song keeps its binary pattern up until the end, when the butterfly learns to break free.
 The final broken chords signify moving forwards towards an uncertain future, but the hands come together to imply that no matter where it goes, it will not forget its roots.
 
-This story describes my relationship with piano and composition.
+This story the song portrays describes my relationship with piano and composition.
 I think it's fitting that my first release is a reflection of the journey to get to this point.
 
 ## Aeolian
@@ -85,6 +90,38 @@ The music from Patrick Doyle, Alexandre Desplat, and of course John Williams (wh
 To me, the melody has an airy quality, constantly flowing and moving freely without dwelling on any moment. Icarus takes flight for the first time. It's only at the bridge does the tone and pace reflect a calmer, more composed, and mildly concerning stance. Icarus rises above the clouds and flies closer to the sun. By the third act we reach the twist; Icarus survives! He soars above and beyond the clouds and disappears into the horizon.
 
 Aeolian is also a mode used in music theory.
+
+## Samara
+> "More commonly referred to as “helicopters,” “whirlers,” “twisters” or “whirligigs,” Samaras are the winged seeds produced by maple trees."
+
+Autumn is my favorite season. Everything from the flavors to the fashion is leagues above any other season in my book.
+Seeing everything transition is refreshing.
+I wrote the cue for this song one autumn day a few years ago.
+I was trying to channel the many qualities of autumn, the cool wind, changing colors, and the smell of changing seasons.
+In August 2021, I revisited the cue and gave it a bit more life.
+To avoid the torrid summer heat I would ask my dad to turn on the AC and we would go around the house to close all the windows (so as to not let the cold air out).
+Over a couple days I composed the core components and arranged the pieces to form the song.
+After completing arrangement and attempting to practice I decided to add back a few pieces I trimmed.
+One of those pieces is the part where my hands play over each other near the middle of the song.
+
+The song starts with the first leaves of autumn falling to the ground.
+Like the descent of a samara leaf (or helicopter leaf as I used to call it) the pattern is brief and predictable.
+After a few changes in key, the song takes a turn in tone, signifying the change in weather.
+Near the end, the original melody can be heard but much slower and in a new key, symbolizing the final change to winter as a snowflake slowly drifts to the ground.
+
+The song starts high and descends in a controlled but not predictable manner.
+
+## Dulcet
+> "Something nice"
+
+Dulcet started as a simple, unassuming motif. Usually when creating something I have an idea of how it will end.
+But in extreme cases; very complex or very simple songs, it is difficult to have a vision. For complex songs it is simply because complexity means more possibilities.
+In the simple case the opposite problem is true; I just don't know where to take it. But I know I like the motif, so I hold on to it.
+
+I revisited the idea around the same time as Samara, and one day I let instinct take over and I built upon the song.
+After a few days of toying with the idea I finished the composition. I don't really remember what I was thinking but I feel really happy with the result.
+I struggled to find a name for this short and sweet bit of music, but eventually, as random as it's conception, I came across a word with a description that does the song justice; Dulcet.
+
 
 ## Gravity
 
@@ -124,9 +161,16 @@ I focused on retaining a constant pace - analogous to the constant speed of ligh
 ## Nastic
 > "(of the movement of plant parts) caused by an external stimulus but unaffected in direction by it."
 
-Nastic is another song whose origins come from a long history of stalling (since 2018) simply because I couldn't move beyond it's primary melody.
+Nastic is another song whose origins come from a long history of stalling (since 2018) simply because I couldn't move beyond its primary melody.
 One day, I mindlessly played something I liked and kept building from there.
 The inspiration came from perceptual qualities of forests and jungles and I wanted to capture the mystery and wonder of those environments.
+I wanted this to be the theme that plays when you're in the magic woods and the trees start talking and the pixies start popping up.
+
+This is probably one of my favorite songs, and I'm very happy with the final composition and arrangement.
+In the beginning the emphasis is on the pace, played patiently and almost in anticipation of something.
+Near the middle the emphasis switches to the dynamics, which are meant to mimic the breath of nature, with every inhale and exhale causing a rise and fall in volume.
+In the end, both are thrown out the window to let the composition shine.
+The last part of the song was extremely difficult to play; the arpeggios and key changes were so fast and spread apart it took many months of practice.
 
 Nyctinasty is the circadian rhythmic nastic movement of higher plants in response to the onset of darkness, or a plant "sleeping".
 
