@@ -231,12 +231,19 @@ There are some nuggets of interesting and very compelling ideas scattered in eac
  - Mind blowing: sometimes internet speeds are so slow, it might actually be faster to drive/fly across the country or world to deliver your data (linear time)
  - When you see a problem where the number of elements in the problem space gets halved each time, that will likely be a 0( log N) runtime.
  
-# Platform Revolution - Geoffrey G Parker, Marshall Van Alstyne, and Sangeet Paul Choudary (Audiobook in progress)
+# Platform Revolution - Geoffrey G Parker, Marshall Van Alstyne, and Sangeet Paul Choudary (Audiobook)
 Recommended by Ben Blaizik.
 I'm loving the ample example-set provided with every argument presented.
 The authors don't rely so much on large tech giants and often use niche but relevant real world examples to prove their points.
 
 ## Key takeaways
 
+# The Mom Test - Rob Fitzpatrick (Audiobook)
+Recommended by Abhinav Boyed.
+I tore through this audiobook and an online PDF I found in 3 days in preparation for the user interviews I did for FieFoe.
+I very much enjoyed the pragmatic perspective of conducting user research, and learned alot about asking good questions.
+Every section ended with a key takeaway, and below is a collection of some of my favorites.
+
+## Key takeaways
 
 <p id="modTime"></p>

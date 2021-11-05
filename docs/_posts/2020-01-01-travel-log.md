@@ -146,3 +146,48 @@ Some tips for cheap flights I've learned over the years:
 - Struggled to function and operate at a laundromat, zoomed around on electric scooters
 - Got locked out of the apartment and spent a night at a hotel below the Eifel Tower.
 - Visited the shopping district designer stores and ended up getting milkshake and fries at Five Guys.
+
+# Oct 5th 2021, Lisbon - Portugal
+- A spontaneous trip with my good friend Abhinav Boyed, who was slated for a 5 week vacation that would include Madrid and Rome (I would only stay for 3 weeks)
+- The first remarkable thing I noticed when we landed was how much warmer and humid the air was. The humidity would later come back to cause some nights with rough sleep.
+- The second thing we noticed was just how cheap Uber rides were in the city. Even at peak hours in the early AMs and a route from the airport to the city center we spent no more than a total of 7 euro.
+- Day 1 was all about resting up and acclimatizing to Lisbon. The black and white limestone streets and steep hills became one of the most memorable characteristics of the city.
+- Our hostel, Rodamon, is easily the best hostel I had ever stayed at in my life, and at a generous price no less. I will gladly stay at any other of their locations in Europe.
+- A bit of context before I rattle off about the food; Abhinav was formerly a vegetarian, and so many of the things we tried was his first time trying it. 
+- A run down of all the food we had and highly recommend:
+  - The Pastel de Nata was insane; needless to say it was beyond any custard tart I have ever had in my life (including the Hong kong style I grew up with). Sprinkle some cinnamon for a kick. Delicious with a latte or orange juice (which is always fresh squeezed in Lisbon)
+  - Real piri piri chicken kicks the shit out of Nando's (it turns out real piri piri sauce is more akin to a chili oil)
+  - Seafood is a specialty in the region and they have stores dedicated to selling nothing but canned sardines. The Octopus and Squid were also a highlight, I particularly liked it grilled and in Paella.
+  - The food at Time Out Market was both expensive but well worth it. Ground burger made the best burger I ever had in my life. It was here that I also tried Iberco ham for the first time.
+  - Local food is pretty simple, oddly enough the one thing that they almost always serve with anything you order is bread, olives, and fries.
+  - Vegetarian and vegan food in Europe is starting to become more and more popular. We went to a fancy restaurant called Arkhe and as a self diagnosed carnivore it really opened my eyes as to how delicious and filling vegetarian and vegan food can be.
+  - Grilled pork ribs at O Taxi were another major highlight. Marinaded very simply with citrus (lime and orange I think) and tons of garlic and olive oil. It's very unlike the sweet and saucy style that is so often served in the Americas.
+  - Francesinha is another dish that I had heard about and tried at a local diner called Lucimar. It was very good but I found it a bit overindulgent and prefer the more refined croque monsieur.
+  - Thai takeout in Lisbon is very good. So good that I had it twice. I generally think that Canada has some of the best asian food in the world, and that Europe isn't as good at doing asian food, but Thai cuisine is an exception. The Thai experiences I've had in London, Paris, and Lisbon are testament to that.
+  - Travesseiro in Sintra was an eye-opening experience. Besides Pastel de Nata, pastries in Portugal seem simple and unpretentious compared to French pastry. They emphasize the use of nuts, particularly Almonds, to make a variety of delicate sweets.
+  - Croquettes are a big deal in this part of the world. The variety you can choose from makes for an interesting experience. Worth trying for sure!
+  - McDonald's in Lisbon is decidedly worse than in Canada. Abhinav tells me McD's in India is pretty crazy though so I'll have to try that at some point.
+- I used an electric scooter for the second time in my life, there are like 5 different brands competing in Lisbon which has helped drive prices to reasonable levels. Scooters would be a frequent mode of transportation for us in both Lisbon and Madrid.
+- The Belem area was exactly as advertised; a great mix of touristy and local vibes, all the major attractions are within walking distance.
+- The Castle of Sao Jorge on the top of the hill is another must visit. Go a couple hours before sunset to explore the grounds and finish with a sunset view of the city.
+- Party life is on point in Lisbon. Pretty much any night of the week you can catch something crazy going on at Pink Street and the Bairro Alto neighborhood. Things start getting crazy around midnight and last until early morning.
+- Visit the museum of Calouste for some amazing archaeological artifacts. The garden behind the museum is the perfect place to read a book or just sit and daydream.
+- We visited Sintra one day, and quickly found out that we could have dedicated at least a week just for the region. It was beautiful and authentic and the garden estate is an underrated attraction. It's worth visiting the tourist center for some pointers!
+
+# Oct 20th 2021, Madrid - Spain
+- Madrid had so many good food options it was honestly hard to pick what to prioritize. I'm glad we got to try the following:
+  - Churros con Chocolate; way better than the version that's dusted in cinnamon and sugar. It's such a fun eating experience and hits all the right spots when it's a bit chilly outside.
+  - Tortilla; simple ingredients coming together to become greater than the sum of its parts. That's tortilla.
+  - Paella; sure it wasn't from Valencia, but the Paella in Madrid already blew my mind enough. One bite and I knew it's in my top 3 favorite mixed rice dishes of all time.
+  - Tacos; I had heard a lot about mexican and tex-mex style tacos but the Spanish version is also something to note. Also the decision of corn vs flour tortilla is a lot less trivial than I thought.
+  - Iberco Ham; Of all the charcuterie I've tried Iberco ham is far and away my favorite. It has this flavor that's like a procuitto and chinese lap cheung hybrid. It's fatty and savory and genuinely one of the best things I had the pleasure of eating on this excursion.
+  - Sangria; I'm currently obsessed wth tea and beer but one day I'll get bored and move onto something else. Probably coffee and cocktails. Learning how to make sangria was both fun and delicious.
+  - We also had Five Guys and it tasted just like Five Guys at any other part of the world, which is to say very good. Did you know 5 guys were actually in reference to the 5 brothers (and one father) that built the company?
+- People here are so nice! Like Scandinavian-countries level nice. In Lisbon too, everyone seems happy to help you and hear you out. The tourist center at the square gave us some valuable insight for the best places to visit during our stay.
+- Mercado de San Miguel is a place I would really like to spend more time at. I had never seen a market that managed to integrate the idea of tapas and make it the center of the eating experience.
+- We visited a huge Primark and I was reminded of why I love this clothing company so much. Simple european fashion done well and at low prices.
+- The archeology museum of Madrid is a notable attraction. It's arranged like a walk through the timeline of human history. Entry was free when I visited, but unfortunately the top floors were closed.
+- Museo Nacional del Prado was indeed an enormous museum and art gallery. I think we only covered 25% of all the exhibitions in a few hours.
+- The garden in Retiro is absolutely beautiful and a must visit on a beautiful day. Go to the pond in the middle of the park and see the small palace. Be sure to bring a loved one!
+- Templo de Debod and the Royal Palace are ideal targets for a day trip.
+

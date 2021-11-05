@@ -59,9 +59,9 @@ To quote a lyric from one of my favorite songs:
 > "Metamorphosis personified"
 
 Technically, Papillon was made first, but naturally, Chenille is played first. The caterpillar comes before the butterfly.
-Chenille was written one day when I got bored of practicing Papillon and stumbled upon a "lazier" way to play it.
+Chenille was made in a day when I got bored of practicing Papillon and stumbled upon a "lazier" way to play it.
 Chenille is a version of Papillon where the chords are broken. The motion of the player's hands mimic the patterned crawl of a caterpillar.
-Although technically it is it's own song, it could be seen as the first part of a two part song.
+Although technically it is its own song, it could be seen as the first part of a two part song.
 
 The name "Papillon" (French for butterfly) comes from the way one's hands are positioned when playing the song.
 The two thumbs are intertwined while the other finger are spread apart to imitate the wings of a butterfly.

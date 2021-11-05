@@ -158,11 +158,13 @@ There are a couple settings I do to customize my IDE a bit:
 - Import settings if there is an existing settings file
 - Enable detection of TODO, XXX, FIXME, and BUG
 - Set stable Vim/Editor shortcuts
+- Symlink my dotfiles so that I can use my .vimrc (kudos to the amix vim configuration) as my .ideavimrc
 - You can open any JetBrains IDE in Administrator mode for admin privilege (otherwise, go to the executable and set it to always run as admin in the compatibility tab.
 
 ## Terminals
 
-I mainly use Powershell (for SSHing and environment management) unless there is something quick that needs to be done (git stuff, file/folder management)
+I mainly use Powershell (for SSHing and environment management) unless there is something quick that needs to be done (git stuff, file/folder management).
+When possible I prefer to use WSL for the linux commands.
 
 [Conda Environments](https://www.notion.so/70962336821a49bab87c5beed9a1e0ac)
 
@@ -170,7 +172,7 @@ I mainly use Powershell (for SSHing and environment management) unless there is 
 
 ## Browser
 
-I use Chrome for all my online activities
+I use Chrome for all my online activities and web dev work.
 
 [Chrome Extensions](https://www.notion.so/bc4e9c883a23451e9309c1d3170c40fe)
 
@@ -179,9 +181,12 @@ I use Chrome for all my online activities
 - Blue Yeti Microphone
 - Logitech B525 HD Webcam
 - UE Megaboom wireless speaker
-- Sony WH-CH700N Wireless Noise Canceling Headphones
+- Sony WH-1000XM4 headphones
+- Sony WF-1000XM4 earbuds
 - 1MORE Triple Driver Hi-Res In Ear Monitors
 - Casio PX-5S Privia 88-Key Digital Stage Piano
+- Focusrite Scarlett 2i2 Gen 3 audio interface
+- Rode M5 condenser microphones (matched pair)
 - Sony Walkman NW-A45 Digital Analog Converter
     - Compatible with Sony Music Center desktop app only
 
@@ -189,11 +194,12 @@ I use Chrome for all my online activities
 
 - Music Apps
     - iTunes for orchestral/trailer/movie score music
+    - Sony Music Center for Hi-Fi Walkman transfers
     - Spotify for everything else
-    - Sony Music Center for Walkman transfers
-    - Foobar2000 for consolidating files from iTunes and SMC (FLACs, AACs, MP3s, etc.)
 - Audio Apps
     - Audacity
-    - Ableton Live 9
+    - Ableton Live 11 (courtesy of Ramy)
+    - MuseScore 3 (for writing sheet music)
+    - Opus to play EastWest virtual instruments
 
 <p id="modTime"></p>
