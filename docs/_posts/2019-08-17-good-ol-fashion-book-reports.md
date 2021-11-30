@@ -246,4 +246,32 @@ Every section ended with a key takeaway, and below is a collection of some of my
 
 ## Key takeaways
 
+# Great Thinkers - The School of Life (eBook)
+I've recently been craving more philosophical books but also wary that jumping straight back into a single school of thought would be a bit overwhelming.
+It has been a long time since I've had the time to think about and study philosophy, so a gentle reintroduction was in order.
+I had seen this book a few times at Indigo and Chapters, and always thought the simplicity of the title and cover was reason enough to believe this book to be a good read, so when I got a Kobo for the first time in many years, this was one of the first books I got.
+Actually let me talk about Kobo for a second;
+I have owned maybe 4-5 Kobos in my life, and every single one I've owned ended up broken. I find them poorly made and often unreliable.
+EReaders are intentionally low tech to maintain the aesthetic and experience of real books, and I appreciate that, but that isn't an excuse to make something fragile.
+Usually when I'm commuting or have a spare moment I study a language on my phone.
+But the past few months I've been craving the reading experience more and more.
+After consulting my friends and thinking about it for a long time, I decided to skip the Kindle and get yet another Kobo (the decision-making point was that kindle doesn't support Overdrive in Canada).
+Here's to hoping this one lasts a long time. I imagine I'll be writing about my experience with it in future book reports.
+
+Prior to reading this book I didn't realize that a group behind a YouTube channel could also be the same group behind a series of pop philosophy books.
+The School of Life is a fantastic little channel about practical philosophy that provides a little lesson and comfort with their brief videos narrated by some guy with a very comforting foreign accent.
+I read this entire book with that guy's voice in my head.
+Indeed each chapter is like one of their 3-5 minute videos so there really isn't anything to complain about.
+If you come in as a seasoned philosopher I can imagine this book will be nothing new. But for normal folks I think it's perfectly rudimentary.
+I like that they don't hold back on using controversial figures in history to teach lessons, it really hammers in the "Know the path to hell so you may run from it" idea.
+Key takeaways will simply be some of my favorite quotes from the book.
+
+## Key takeaways
+
+#  Start With No - Jim Camp (eBook)
+A few months ago, Masterclass had a special sale. My friends and I browsed the course catalog and after a brief deliberation we thought we'd get the course on negotiation. 
+We never ended up buying the course, but the idea of learning negotiation; treating it as a teachable and learnable skill is still interesting to me.
+I don't remember how exactly this book came up but it ended up on my Kobo and the top of my reading list.
+
+## Key takeaways
 <p id="modTime"></p>
