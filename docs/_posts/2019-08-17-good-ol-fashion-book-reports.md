@@ -239,12 +239,33 @@ The authors don't rely so much on large tech giants and often use niche but rele
 ## Key takeaways
 
 # The Mom Test - Rob Fitzpatrick (Audiobook)
-Recommended by Abhinav Boyed.
+I was recommended this book by Abhinav Boyed after a discussion about conducting good user research.
 I tore through this audiobook and an online PDF I found in 3 days in preparation for the user interviews I did for FieFoe.
-I very much enjoyed the pragmatic perspective of conducting user research, and learned alot about asking good questions.
+I very much enjoyed the pragmatic perspective of conducting user research, and learned a lot about asking good questions.
 Every section ended with a key takeaway, and below is a collection of some of my favorites.
 
 ## Key takeaways
+ - Anything hypothetical, opinion based, or ego-centric is worthless and sometimes harmful. To fix this, ask neutral, open-ended, and questions focused on them, not you or your party.
+ - People know their problem better than you, but they are not allowed to come up with a solution, that's your job.
+ - Some problems don't actually matter (the definition of a non-issue)
+ - Ask good questions like:
+   - "Why do you bother?"
+   - "What are the implications of that?"
+   - "Talk me through the last time that happened"
+   - "What else have you tried?"
+   - "How are you dealing with it now?"
+   - "Where does the money come from?"
+   - "Who else should I talk to?"
+   - "Is there anything else I should have asked?"
+ - Conclusions from careful observations are as good as responses from good questions.
+ - If haven't looked for ways of solving it already, they aren't going to pay for your solution.
+ - You should be terrified of at least one of the questions you're asking.
+ - Give as little information as possible about your idea while still nudging the discussion in a useful direction.
+ - If you don’t know what happens next after a product or sales meeting, the meeting was pointless.
+ - The more they’re giving up, the more seriously you can take their kind words.
+ - It’s not a real lead until you’ve given them a concrete chance to reject you.
+ - Keep having conversations until you stop hearing new stuff.
+ - If you aren’t finding consistent problems and goals, you don’t yet have a specific enough customer segment.
 
 # Great Thinkers - The School of Life (eBook)
 I've recently been craving more philosophical books but also wary that jumping straight back into a single school of thought would be a bit overwhelming.
@@ -272,6 +293,9 @@ Key takeaways will simply be some of my favorite quotes from the book.
 A few months ago, Masterclass had a special sale. My friends and I browsed the course catalog and after a brief deliberation we thought we'd get the course on negotiation. 
 We never ended up buying the course, but the idea of learning negotiation; treating it as a teachable and learnable skill is still interesting to me.
 I don't remember how exactly this book came up but it ended up on my Kobo and the top of my reading list.
+There's a lot of similarities between this book and "The Mom Test" which I suppose are to be expected between books on how to perform user research and conduct negotiations.
+Common ideas like "understand the other party" and "ask good questions" are indeed applicable to navigating any social situation.
+It seems that if the former is done well, the latter will naturally follow.
 
 ## Key takeaways
 <p id="modTime"></p>
