@@ -297,5 +297,10 @@ There's a lot of similarities between this book and "The Mom Test" which I suppo
 Common ideas like "understand the other party" and "ask good questions" are indeed applicable to navigating any social situation.
 It seems that if the former is done well, the latter will naturally follow.
 
+My opinions on persuasion and negotiation align with Jim's approach.
+I think the crux of his argument is that honesty is productive when two opposing parties attempt to reconcile their differences.
+If you disagree with something, say no. If you're being low-balled but going along to save the relationship, say no. If you're wasting time being strung along, say no.
+Saying yes is meaningless unless they have pen on paper right then and there.
+
 ## Key takeaways
 <p id="modTime"></p>

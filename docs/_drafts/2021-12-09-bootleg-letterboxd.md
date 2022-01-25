@@ -6,49 +6,37 @@ tags: [ opinion, notes, featured ]
 created: Sept 21st, 2019 2:42 PM
 image: assets/images/13.jpg
 ---
-This post is to talk about my favorite movies. I love movies.
+This post is to talk about my favorite movies.
+
+I've ranked each entry roughly in order of most favorite to least favorite.
 
 {:.no_toc}
 
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
 
-# The Culture Code - Daniel Coyle
+# Blade Runner 2049
 
-> Why do some groups come together and add up to be greater than the sum of its parts?
+> Joi: Mere data makes a man. A and C and T and G. The alphabet of you. All from four symbols. I am only two: 1 and 0.
+> 'K': Half as much but twice as elegant, sweetheart.
 
-If I were to ask you who could do linear algebra better: a group of kinder-gardeners or a group of MBA students, you would likely pick the latter.
-How about something simpler: build a tower with nothing but spaghetti, tape, string, and a marshmallow.
-In this regard, the kinder-gardeners triumph.
-Why?
-This is the question that "The Culture Code" exists to answer.
-Culture, no matter the type or scale, is essential to every choice, action, and thought one has.
-This is because none is made without culture in mind, yet all of them ultimately influence culture itself.
 
 ## Key Takeaways
 
- - The psychological effects of just a handfull of words and the way those words are delivered is overwhelmingly powerful. To ask a stranger at the bus station on a rainy day "Can I borrow your phone?" versus "I'm so sorry about the rain, can I borrow your phone" is the difference between a 422% increase in response rate. 6 words = 4x as likely to get what you want. Unreal.
- - No one knows his name, but Jeff Dean made Google the giant that it is today. He is the reason why when you search Kawasaki H1B motorcycle on Google AdWords, you get the motorcycle and not a H-1B foreign visa application. Jeff did this, not because it was his job to, but because he was so in tune with what Google stood for, he took it upon himself to work on a problem that wasn't even his department. When confronted about his solution, he said "It didn't feel special or different. It was normal. That kind of thing happened all the time."
- - In the event of a catastrophic failure (the official term the National Transporation Safety Board used for United Airlines Flight 232) the words you use are a matter of life or death. Pilots use what is known as notifications; maximize information, vulnerability, and openness with as little words as possible. 
- - Tony Hsieh, the eccentric founder of LinkExchange (sold to Microsoft) and Zappos (sold to Amazon), has a unique take of building culture and making new friends; he is notorious for mediating warm introductions between new people he meets and people he already knows. Basically leveraging arguably the most valuable resource; human resources.
- - Pixar saved Disney from making any more animated movie atrocities. They did this with more than just creativity. Pixar's "Inside Out", "Nemo", and "Monster's Inc,", literally taught Disney how to make "Frozen", "Big Hero 6", and "Zootopia". When Disney acquired Pixar, they acquired more than just creativity; they acquired Pixar's community and culture of communication, bar-setting, and vulnerability.
+Denis Villeneuve reached peak filmmaking with this one. Hans Zimmer with his brooding yet beautiful, glacially droning score.
+Mesa remains top 10 best soundtrack-screenplay synergistic moments of my life.
+I thought a lot about what it meant to be human during and after the movie.
  
- - The coaches of top basketball teams, high ranking officers of the Navy SEALs, and owners of some of the best restaurants in the world (11 Madison Park and Shake Shack) all have something in common. The pre and post. Each highly successful group has a different name for them, but simply put, what happens before and after a big game, a dangerous operation, or a busy Friday dinner service, is key to community growth.
+Also can you believe this movie made me fall in love with a hologram?
 
-# The Talent Code - Daniel Coyle
-## Key Takeaways
+# Scott Pilgrim vs The World
+> I wanna fight you for me... "SCOTT EARNED THE POWER OF SELF-RESPECT"
 
-# Zero to One - Peter Thiel
+This movie is just SO FUN. The moment it was revealed that the setting was in Toronto (they even filmed at Casa Loma) I knew this was going to be a top 10 for life.
 
-> How do you build an impactful, sustainable, profitable, and successful startup; how do you go from 0 to 1?
+# Me, Earl, and the dying girl
 
-Peter Thiel is the "veteran of a hundred battles" of the startup world.
-Best known for PayPall, Thiel started more than just a company; his story influenced the very culture, methods, and ideas that are central to startups.
-Just look at the "PayPall Mafia", a group of individuals who, after leaving PayPall, went on to start more highly impactful companies, analogous to the way the splitting of an atom causes a domino effect.
-
-Peter Thiel takes common misconceptions about startups and shreds them apart, whilst revealing the truth behind the secrets of any successful startup.
-Drawing from both his own experiences and observations, he details everything from the economics to the operations, from the market to the team, and covers all corners.
-It's like a cheatsheet for founders, entrepreneurs, and techies.
+This was the only YA book I ever read in my life, and I'm glad it is.
 
 ## Key Takeaways
 
