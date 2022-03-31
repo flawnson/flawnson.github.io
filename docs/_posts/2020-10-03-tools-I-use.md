@@ -13,7 +13,7 @@ This page is for keeping track of the software and hardware I use on a regular b
 {:.no_toc}
 
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
-{:toc}
+  {:toc}
 
 
 # Devices
@@ -80,7 +80,7 @@ Some settings need to be manually changed for further customization:
 - Turn on Hypervisor services
 - Turn on Virtualization
 
-## Peripherals
+## Peripherals and Furnishing
 
 - Logitech MX Anywhere 2S wireless mouse
     - Seriously great battery life (literally months at full charge)
@@ -89,6 +89,7 @@ Some settings need to be manually changed for further customization:
 - Pluggable USB 3.0 Universal Laptop Docking Station
     - Requires Pluggable's proprietary driver for triple monitor support
 - HP 24es dual monitor displays
+- I sit on a Herman Miller chair (graciously gifted by Ryan Li) at my ALEX desk from Ikea, but I prefer to stand and work when I can
 
 # Software
 
@@ -191,14 +192,13 @@ I use Chrome for all my online activities and web dev work.
     - Compatible with Sony Music Center desktop app only
 
 ## Software
-
 - Music Apps
     - iTunes for orchestral/trailer/movie score music
     - Sony Music Center for Hi-Fi Walkman transfers
     - Spotify for everything else
 - Audio Apps
     - Audacity
-    - Ableton Live 11 (courtesy of Ramy)
+    - Ableton Live 11 (courtesy of Ramy Zhang)
     - MuseScore 3 (for writing sheet music)
     - Opus to play EastWest virtual instruments
 

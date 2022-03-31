@@ -7,57 +7,71 @@ created: Sept 21st, 2019 2:42 PM
 image: assets/images/13.jpg
 ---
 This post is to talk about the video games I've played.
+- The Legend of Zelda, BOTW
+- Blasphemous
+- Ori: The Blind Forest
+- Inside
+- Cuphead
+- Katana Zero
+- My Friend Pedro
+- The Legend of Zelda, Link's Awakening
+- Mario Kart
 
 {:.no_toc}
 
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
 
-# The Culture Code - Daniel Coyle
+# League of Legends
 
-> Why do some groups come together and add up to be greater than the sum of its parts?
+I have nothing to say about this game except that I regret every moment and dollar I spent on it.
 
-If I were to ask you who could do linear algebra better: a group of kinder-gardeners or a group of MBA students, you would likely pick the latter.
-How about something simpler: build a tower with nothing but spaghetti, tape, string, and a marshmallow.
-In this regard, the kinder-gardeners triumph.
-Why?
-This is the question that "The Culture Code" exists to answer.
-Culture, no matter the type or scale, is essential to every choice, action, and thought one has.
-This is because none is made without culture in mind, yet all of them ultimately influence culture itself.
+But I appreciate that it helped developed my taste.
 
-## Key Takeaways
+# The Legend of Zelda: Breath of the Wild
 
- - The psychological effects of just a handfull of words and the way those words are delivered is overwhelmingly powerful. To ask a stranger at the bus station on a rainy day "Can I borrow your phone?" versus "I'm so sorry about the rain, can I borrow your phone" is the difference between a 422% increase in response rate. 6 words = 4x as likely to get what you want. Unreal.
- - No one knows his name, but Jeff Dean made Google the giant that it is today. He is the reason why when you search Kawasaki H1B motorcycle on Google AdWords, you get the motorcycle and not a H-1B foreign visa application. Jeff did this, not because it was his job to, but because he was so in tune with what Google stood for, he took it upon himself to work on a problem that wasn't even his department. When confronted about his solution, he said "It didn't feel special or different. It was normal. That kind of thing happened all the time."
- - In the event of a catastrophic failure (the official term the National Transporation Safety Board used for United Airlines Flight 232) the words you use are a matter of life or death. Pilots use what is known as notifications; maximize information, vulnerability, and openness with as little words as possible. 
- - Tony Hsieh, the eccentric founder of LinkExchange (sold to Microsoft) and Zappos (sold to Amazon), has a unique take of building culture and making new friends; he is notorious for mediating warm introductions between new people he meets and people he already knows. Basically leveraging arguably the most valuable resource; human resources.
- - Pixar saved Disney from making any more animated movie atrocities. They did this with more than just creativity. Pixar's "Inside Out", "Nemo", and "Monster's Inc,", literally taught Disney how to make "Frozen", "Big Hero 6", and "Zootopia". When Disney acquired Pixar, they acquired more than just creativity; they acquired Pixar's community and culture of communication, bar-setting, and vulnerability.
- 
- - The coaches of top basketball teams, high ranking officers of the Navy SEALs, and owners of some of the best restaurants in the world (11 Madison Park and Shake Shack) all have something in common. The pre and post. Each highly successful group has a different name for them, but simply put, what happens before and after a big game, a dangerous operation, or a busy Friday dinner service, is key to community growth.
+> My favorite game of all time
 
-# The Talent Code - Daniel Coyle
-## Key Takeaways
+My childhood was filled with Zelda. Even when I wasn't the one playing it, I was surrounded by people who loved the games.
+I remember being scared of the cutscenes in Twilight Princess. I remember loving the aesthetic of Wind Waker. I remember link's little war cry in Minish Cap.
+But my Zelda journey really began in 2020, at around the same time I picked up my first serious video game since I quit League of Legends.
+It had been around 5 years at this point since I had quit LOL. I moved in with my friends at the University of Waterloo, one of whom is a dear friend and fellow software developer Nikhil Budathoki.
+He's not what I would call a gamer per se, but he most certainly appreciates games, as I did too. He played XBox games by creating a new email and signing up for that 3 month free any-game subscription that Microsoft offers.
+I told him that I was open to get back into a healthy relationship with gaming and I told him about my history with games and what kind of games I respond best to. When I finished explaining, he straight up offered to gift me his limited edition Fortnite Battle Royale Nintendo Switch.
+A mutual friend, Lavan (also at Waterloo) sent me his nintendo account details so I could try out the games he had.
+You have to understand that this Switch is more than a gaming console worth a few hundred dollars to me.
+Ever since he gave it to me, it has been responsible for countless hours of joy and memories with the people closest to me.
+I can't appreciate it enough.
+One of the first games I pl
 
-# Zero to One - Peter Thiel
+# My Friend Pedro
+I discovered this game while watching a video from the only gamer Youtuber I watch. videogamedunkey had made a video about a compilation of games he was excited to try, and My Friend Pedro was one of the notable indie games
+I distinctly remember seeing how the player could throw a frying pan in the air and shoot at it to ricochet bullets and take out enemies. That was the tidbit that caught my interest.
+When I got my hands on the switch this was one of the few indie games I purchased, but I never got around to playing it until one day, when I got bored of Link's Awakening, I opened the game for the first time.
+I was totally hooked. The controls were tight (with a few exceptions) and the gameplay was as advertised. I was taking out enemies with skateboards, landing headshots in bullet time, and spin-dodging bullets like a ballerina.
+Although I finished the game hard mode, there's a part of me that would have liked to try bananas mode.
+My Friend Pedro immediately reminded me of Katana Zero, an indie game that I love very much for its compelling story mixed with exciting and action packed gameplay.
+
+My Friend Pedro certainly trumped Katana Zero in the department of level design; whereas in Katana Zero, the level layouts were simple to focus the gameplay on finding efficient and fun ways to take out the enemies, in my Friend Pedro, the levels were clever puzzles that had to be solved in between shootouts.
+I enjoyed that they managed to make it surprising by putting an enemy immediately after a puzzle or platforming section just to keep you on edge.
+The game never felt unfair or overtly difficult, and had enough satisfying moments where I could just let the bullets fly to make the experience genuinely fun.
+
+As great as this game was, there were still things for me to nitpick. I found the controls to be smooth when it came to aiming, walking, and dodging, but rolling was a bit more difficult to pull off, especially at the levels where the player had to think fast.
+Although this is certainly more of an opinion from personal taste, I wasn't a fan of the art style or the color palette. The environments didn't pop and it was often not as easy as it should have been to identify in game objects that I could interact with as a player.
+I thought the story was fun and the twist was well executed for such a short game, but the dialog was somewhat awkward, and was a bit distracting.
+Finally, my biggest qualm with My Friend Pedro is the music. The music in Katana Zero was so memorable, I continue to listen to its soundtrack to this day. The music in My Friend Pedro has more of an ambient edge, and although it suited the environment and art style, I wish it was a bit as dynamic and exciting as the gameplay.
+
+# Inside
 
 > How do you build an impactful, sustainable, profitable, and successful startup; how do you go from 0 to 1?
 
-Peter Thiel is the "veteran of a hundred battles" of the startup world.
-Best known for PayPall, Thiel started more than just a company; his story influenced the very culture, methods, and ideas that are central to startups.
-Just look at the "PayPall Mafia", a group of individuals who, after leaving PayPall, went on to start more highly impactful companies, analogous to the way the splitting of an atom causes a domino effect.
+This game scarred me for life. There are moments in this game that had my heart racing and mind utterly unable to process the situation.
+There's little I can say about this game without spoiling it, and that really matters because so much of what makes Inside top 3 games of my life is the story.
+To me, Inside is a horror-drama side-scrolling 3D puzzle platformer, and the second most unforgettable game I've ever played.
 
-Peter Thiel takes common misconceptions about startups and shreds them apart, whilst revealing the truth behind the secrets of any successful startup.
-Drawing from both his own experiences and observations, he details everything from the economics to the operations, from the market to the team, and covers all corners.
-It's like a cheatsheet for founders, entrepreneurs, and techies.
-
-## Key Takeaways
-
- - For good companies are great - when done correctly. In the first decade of the 2000s, there was a boom in green-tech/ clean-tech startups. Almost all of them, save for Tesla and a handful of others, survived.
- - PayPal and X.com (an online banking company built by Elon Musk) put aside their competition to survive the dot-com crash; a move that saved them both in a crash that took down hundreds of companies.
- - There is a reason why most successful co-founders are shut-ins. The population can be represented by a normal distribution (black line)
-![Founders Curve](../assets/images/founders-curve.png){:class="img-responsive"}
-
-this normal distribution is universal. What makes founders, entrepreneurs, and tech nerds so different? It turns out, they are exactly the opposite (orange line). They are polarizing to the point of irony. Name any notable founder and they belong in one of the extremes. 
+The art style and design complimented the story so well and truly added to the immersion, another element I consider crucial when playing inside.
+The faceless in game characters really give that feeling of apathy and cold-heartedness that brought the mood down to the right level.
+Even the protagonist, who remains unnamed and unfaced, allowed me to project my own name and face onto his body, and really made me feel like I was in that dark forest, that dilapidated lab, and that deadly audio-driven pulse field.
 
 # Brief Andwers to the Big Questions - Stephen Hawking
 Is there a God? How did it all begin? Is there extraterrestrial intelligent life? Can we predict the future? What is inside a black hole? Is time travel possible? Will we survive on Earth? Should we colonize space? Will A.I outsmart us? How do we shape the future?

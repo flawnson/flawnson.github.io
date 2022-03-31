@@ -93,7 +93,9 @@ Machine Learning doesn't require a serious technical background in computer scie
 - General Programming resources
     - I literally worship Runestone Academy's library of courses. Each little course serves as a great touch up on topics you may have encountered before, or as a way to get your feet wet in something new, as I have with the [Java for Python programmers coursette](https://runestone.academy/runestone/books/published/java4python/Java4Python.html)
     - [Learn x in y minutes](https://learnxinyminutes.com/) is a collection of "tours" for a variety of programming stuffs
-    - This Information-dense course by Stanford is called "[The Missing Semester of your CS education](https://missing.csail.mit.edu/)", and it truly lives up to its name
+    - This Information-dense course by Stanford is called "[The Missing Semester of your CS education](https://missing.csail.mit.edu/)", and it truly lives up to its name.
+    - If you like learning by analogy or comparison, have a look at "[Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)", a wiki of hundreds of programming languages demonstrating hundreds of tasks.
+    - There's also "[Hyperpolyglot](https://hyperpolyglot.org/)", a simple site with side by side comparison charts of different programming languages organized by various catagories. Keep in mind the language versions in the demos are very old (the site isn't maintained).
 - Language Specific Resources
     - Python
         - [Socratica](https://www.youtube.com/channel/UCW6TXMZ5Pq6yL6_k5NZ2e0Q) is a YouTube channel for learning science and Python; their Python course is probably one of the best in quality, time, and understandability on the internet.
