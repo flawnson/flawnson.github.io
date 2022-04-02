@@ -15,6 +15,7 @@ This post is to talk about the video games I've played.
 - Katana Zero
 - My Friend Pedro
 - The Legend of Zelda, Link's Awakening
+- Kirby and the Forgotten Land
 - Mario Kart
 
 {:.no_toc}
@@ -73,41 +74,21 @@ The art style and design complimented the story so well and truly added to the i
 The faceless in game characters really give that feeling of apathy and cold-heartedness that brought the mood down to the right level.
 Even the protagonist, who remains unnamed and unfaced, allowed me to project my own name and face onto his body, and really made me feel like I was in that dark forest, that dilapidated lab, and that deadly audio-driven pulse field.
 
-# Brief Andwers to the Big Questions - Stephen Hawking
-Is there a God? How did it all begin? Is there extraterrestrial intelligent life? Can we predict the future? What is inside a black hole? Is time travel possible? Will we survive on Earth? Should we colonize space? Will A.I outsmart us? How do we shape the future?
+# Katana Zero
 
-In honor of the late and forever great Stephen Hawking, BABQ was a book I had to read.
-Hawking's final work focuses on the final 10 questions he was striving to answer.
-I found myself gazing up at the sky more often this month than even before in my life, even as a child.
-It fascinating to read about the history of the universe in a style reminiscent of  "Sapiens", only this time, from the perspective of a world renowned physicist.
-This book made me realize how unfortunate it is that most people hear the voices of less intelligent people more often than the smartest people.
-It made me think and realize that the smart people tend to be careful when making statements; they are experts at discerning fact from fiction or hypothesis.
-One can then infer that we should be paying attention to any statements smart people say. Today, this fact cannot be understated.
+When my good friend Nikhil Budathoki gave me his Nintendo Switch, he also gave me a list of recommended titles he thought I should check out.
+One of his key endorsements was the game Katana Zero. He had been recommended the game by his boss during his intern at Epic Games, and if that isn't the endorsement you needed to hear, I don't know what is.
+Katana Zero is my 3rd favorite video games, and the only game I've played where, when I finished it after about 6 hours, I wished there was more.
 
-This book, regardless of your background, beliefs, or knowledge, is a must read.
-You will finish it feeling enlightened, inspired, and best of all, optimistic.
-May he rest in piece, next to the ashes of Sir Isaac Newton and Charles Darwin.
-He will be immortalized by his contributions and remembered as one among the pantheon of the smartest people in history, and, to match his scale of vision, the smartest creatures in the universe.
+The spritework and artstyle is right up my alley. The pixels weren't too blocky and the characters felt animated and alive, well-supported by the fantastic dialog.
+The music by LudoWic, Bill Kiley, and Co. paired so perfectly with the game's aesthetic, mood, and pacing. Stealth sequences had the ambience and moodiness needed to remind me when to take it slow. Action sequences had the heart-racing fast paced drum and bass influence.
 
-## Key Takeaways
+# Kirby and the Forgotten Land
 
- - Hawking subscribes to the Weak Anthropic Principle, that is, he takes the values of the physical constants as given. A principle that states that only in a universe capable of eventually supporting life will there be living beings capable of observing and reflecting on the matter.
- - The universe has 3 ingredients: matter, energy, and space. Einstein discovered (with E = mc²) that mass and energy are basically the same thing, hence there are only two ingredients: energy and space.
- - "Do we need a God to set it up so that the Big Band could bang?… It is possible that nothing caused the Big Bang… Time didn't exist before the Big Bang so there is no time for God to make the universe in"
- - Black holes exist because of a concept best described as analogous to escape velocity. That is to say that, like how a rocket must reach above 11 km/s to escape an object with earth-like mass, an object must reach more than 300k km/s (light speed) to escape a black hole.
- - "If you know how something works, you can control it" - Hawking, echoes the now famous "What I cannot create, I do not understand" - Fyenman. It seems as is if all the great scientists followed the same train of thought.
- - Building upon the takeaways of Yuval Noah Harari's "Sapiens" trilogy, the future of humanity relies on a handful of technologies and industries: Artificial intelligence, Biotechnology, Brain computer interfaces, Fusion energy (Hawking's response to "What would you like to see implemented), and Space exploration.
- - To end, Hawking leaves us with this: "We stand at a threshold of important discoveries in all areas of science… We will find out what happened at the Big Band. We will come to understand how life began on Earth… We will continue to explore our cosmic habitat… We must look outwards to the wider universe, while also striving to fix the problems on Earth… And one final point - we never really know where the next great scientific discovery will come from, nor who will make it.
-
-# Architects of Intelligence - Martin Ford
-
-I was window shopping in a book store one day when the title caught my eye.
-After only having read the premise of the book, I followed my instinct and bought it right then and there.
-"Architects of Intelligence" is the aggregation of various interviews conducted with the greatest minds in the field of Artificial Intelligence.
-Martin Ford previously published "Rise of the Robots", an in depth look at the direction of the industry and how it will impact society business, and government.
-The key takeaways here outnumber that of any other book I read this year.
-I have no doubt this is partly due to my extensive research in the field, but also because Martin Ford does a tremendous job aggregating, filtering, and condensing all the juiciest tidbits of knowledge from some of the smartest people in the world.
-The book almost radiates with value.
+There were 3 titles that I was obsessed with when I was a snot-nosed kid playing my DS Lite under the pillow at midnight:
+ - New Super Mario Bros.
+ - Professor Layton original triology
+ - Kirby's Adventure
 
 ## Key Takeaways
 

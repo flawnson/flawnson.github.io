@@ -28,6 +28,8 @@ A self taught developer and [amateur](https://www.pinterest.ca/pin/3788653873876
 - Because it might help channel character traits and auxiliary functions I would like to develop
 - Because maybe something I write will fix a problem or inspire action or introduce an idea...
 
+Most of all I want to be the person who helped me when I was learning and growing on my own.
+If there's one thing I hope you do while reading my writing it's that you learned something new about yourself or about the world.
 Why I'm doing this becomes a bit more obvious when I explain what I'm going to write about:
 
 # What am I going to write about?
@@ -65,6 +67,7 @@ Hopefully in time, I'll smooth out the creases and weed out inconsistencies. Wit
 
 Why does this blog look like Medium?
 I used to write a lot on Medium. I'm not very proud of those articles, but they were a good learning opportunity. Those old relics still garner views.
+So when it came time to make my own blog, I decided I'd pay tribute to the website that turned me into an amateur writer ☺
 
 What does "Just a Word" mean?
 It's a moniker derived from one of my favorite producers; Just a Gent.

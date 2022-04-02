@@ -35,43 +35,24 @@ Also can you believe this movie made me fall in love with a hologram?
 This movie is just SO FUN. The moment it was revealed that the setting was in Toronto (they even filmed at Casa Loma) I knew this was going to be a top 10 for life.
 
 # Me, Earl, and the dying girl
+> "That is why fiction sucks. None of that happened. Instead, pretty much everything happened that I was afraid of, except worse."
 
-This was the only YA book I ever read in my life, and I'm glad it is.
-
-## Key Takeaways
-
- - For good companies are great - when done correctly. In the first decade of the 2000s, there was a boom in green-tech/ clean-tech startups. Almost all of them, save for Tesla and a handful of others, survived.
- - PayPal and X.com (an online banking company built by Elon Musk) put aside their competition to survive the dot-com crash; a move that saved them both in a crash that took down hundreds of companies.
- - There is a reason why most successful co-founders are shut-ins. The population can be represented by a normal distribution (black line)
-![Founders Curve](../assets/images/founders-curve.png){:class="img-responsive"}
-
-this normal distribution is universal. What makes founders, entrepreneurs, and tech nerds so different? It turns out, they are exactly the opposite (orange line). They are polarizing to the point of irony. Name any notable founder and they belong in one of the extremes. 
-
-# Brief Andwers to the Big Questions - Stephen Hawking
-Is there a God? How did it all begin? Is there extraterrestrial intelligent life? Can we predict the future? What is inside a black hole? Is time travel possible? Will we survive on Earth? Should we colonize space? Will A.I outsmart us? How do we shape the future?
-
-In honor of the late and forever great Stephen Hawking, BABQ was a book I had to read.
-Hawking's final work focuses on the final 10 questions he was striving to answer.
-I found myself gazing up at the sky more often this month than even before in my life, even as a child.
-It fascinating to read about the history of the universe in a style reminiscent of  "Sapiens", only this time, from the perspective of a world renowned physicist.
-This book made me realize how unfortunate it is that most people hear the voices of less intelligent people more often than the smartest people.
-It made me think and realize that the smart people tend to be careful when making statements; they are experts at discerning fact from fiction or hypothesis.
-One can then infer that we should be paying attention to any statements smart people say. Today, this fact cannot be understated.
-
-This book, regardless of your background, beliefs, or knowledge, is a must read.
-You will finish it feeling enlightened, inspired, and best of all, optimistic.
-May he rest in piece, next to the ashes of Sir Isaac Newton and Charles Darwin.
-He will be immortalized by his contributions and remembered as one among the pantheon of the smartest people in history, and, to match his scale of vision, the smartest creatures in the universe.
+This was the only YA book I ever read in my life, and I'm so grateful. I'm not a fan of fiction but when 14 year old picked up this book for the first time and read the first few words, I was hooked.
+"Me, Earl, and the dying girl" simply isn't your typical feel good novel with lots of young romance and serendipitous moments. This book is about death and insecurity and college applications.
+This book connected with me because despite being fiction, the characters, the environment, and the writing was so real, with no effort to create a fantasy world where everything is peaches and gravy.
+When the movie was released in 2015 I fell in love with the movie because it echoed my own experience in high school.
 
 ## Key Takeaways
 
- - Hawking subscribes to the Weak Anthropic Principle, that is, he takes the values of the physical constants as given. A principle that states that only in a universe capable of eventually supporting life will there be living beings capable of observing and reflecting on the matter.
- - The universe has 3 ingredients: matter, energy, and space. Einstein discovered (with E = mc²) that mass and energy are basically the same thing, hence there are only two ingredients: energy and space.
- - "Do we need a God to set it up so that the Big Band could bang?… It is possible that nothing caused the Big Bang… Time didn't exist before the Big Bang so there is no time for God to make the universe in"
- - Black holes exist because of a concept best described as analogous to escape velocity. That is to say that, like how a rocket must reach above 11 km/s to escape an object with earth-like mass, an object must reach more than 300k km/s (light speed) to escape a black hole.
- - "If you know how something works, you can control it" - Hawking, echoes the now famous "What I cannot create, I do not understand" - Fyenman. It seems as is if all the great scientists followed the same train of thought.
- - Building upon the takeaways of Yuval Noah Harari's "Sapiens" trilogy, the future of humanity relies on a handful of technologies and industries: Artificial intelligence, Biotechnology, Brain computer interfaces, Fusion energy (Hawking's response to "What would you like to see implemented), and Space exploration.
- - To end, Hawking leaves us with this: "We stand at a threshold of important discoveries in all areas of science… We will find out what happened at the Big Band. We will come to understand how life began on Earth… We will continue to explore our cosmic habitat… We must look outwards to the wider universe, while also striving to fix the problems on Earth… And one final point - we never really know where the next great scientific discovery will come from, nor who will make it.
+
+# 500 Days of Summer
+> "Look, I know you think she was the one, but I don't. Now, I think you're just remembering the good stuff. Next time you look back, I, uh, I really think you should look again."
+
+Sometimes you watch a movie for the first time and you realise just how similar you are to the protagonist. And it's not a good thing, it's honestly really embarrassing!
+500 Days of Summer is one of those relatable movies with asshole characters that makes it feel like I'm watching a dramatized copy of my own life-story.
+
+## Key Takeaways
+
 
 # Architects of Intelligence - Martin Ford
 
