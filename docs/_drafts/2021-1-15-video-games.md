@@ -87,8 +87,11 @@ The music by LudoWic, Bill Kiley, and Co. paired so perfectly with the game's ae
 
 There were 3 titles that I was obsessed with when I was a snot-nosed kid playing my DS Lite under the pillow at midnight:
  - New Super Mario Bros.
- - Professor Layton original triology
+ - Professor Layton original trilogy
  - Kirby's Adventure
+
+So when my friend Nikhil gave me his Switch, my first reaction was to find the latest Kirby game. Imagine my disappointment when I discovered that the latest entry in the series, Kirby Star Allies, and been a flop.
+My disappointment didn't last long however, because I found an even greater appeal in the indie games that I never had a chance to play before (all previous handheld Nintendo devices didn't really have much in the indie game department)
 
 ## Key Takeaways
 

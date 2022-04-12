@@ -80,16 +80,32 @@ Some settings need to be manually changed for further customization:
 - Turn on Hypervisor services
 - Turn on Virtualization
 
-## Peripherals and Furnishing
+## Devices
+- Samsung a70
+  - I keep my old phone around for testing builds of mobile development projects.
+- Apple iPhone 13 Pro
+  - I recently switched to iPhone from Android for the first time in my life. I have opinions.
+- Apple Watch Series 3
+- Kobo Nia
 
+## Peripherals and Furnishing
 - Logitech MX Anywhere 2S wireless mouse
     - Seriously great battery life (literally months at full charge)
     - Logitech Flow and Duolink are indispensable once adjusted to
-- Logitech MX Keys Multi-device wireless keyboard ~~Logitech K780 Multi-device wireless keyboard~~
+- ~~Logitech K780 Multi-device wireless keyboard~~
+- Keyboards
+- Logitech MX Keys Multi-device wireless keyboard 
+- Ducky One 2 Mini (Cherry MX Silent Red switches) with HyperX pudding keycaps
+  - I recently got into keyboards and this was my first mechanical keyboard since a long time ago, when I had a Razer Blackwidow
+- HHKB Hybrid Type-S
+  - This is my most recent purchase (and honestly probably my last) and it definitely the best keyboard I've ever used, hands down.
 - Pluggable USB 3.0 Universal Laptop Docking Station
-    - Requires Pluggable's proprietary driver for triple monitor support
+  - Requires Pluggable's proprietary driver for triple monitor support
+- Seagate 4TB HDD hard drive
+- Samsung T7 2TB SSD hard drive
 - HP 24es dual monitor displays
 - I sit on a Herman Miller chair (graciously gifted by Ryan Li) at my ALEX desk from Ikea, but I prefer to stand and work when I can
+- I retrofitted my IKEA Alex desk tabletop (the one with 2 drawers) with a standing desk frame so I can stand more often.
 
 # Software
 
@@ -182,8 +198,11 @@ I use Chrome for all my online activities and web dev work.
 - Blue Yeti Microphone
 - Logitech B525 HD Webcam
 - UE Megaboom wireless speaker
+- Sony HT-Z9F Soundbar and Subwoofer with SA-Z9R rear speakers
+- Sennheiser HD600 headphones
 - Sony WH-1000XM4 headphones
 - Sony WF-1000XM4 earbuds
+- Apple Airpod Pro
 - 1MORE Triple Driver Hi-Res In Ear Monitors
 - Casio PX-5S Privia 88-Key Digital Stage Piano
 - Focusrite Scarlett 2i2 Gen 3 audio interface
