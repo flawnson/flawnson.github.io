@@ -9,11 +9,18 @@ image: assets/images/13.jpg
 This post is to talk about my favorite movies.
 
 I've ranked each entry roughly in order of most favorite to least favorite.
+Also there's a special section on a few other topics around movies I think are worthy of discussion!
 
 {:.no_toc}
 
 * A markdown unordered list which will be replaced with the ToC, excluding the "Contents header" from above
 {:toc}
+
+# Everything, Everywhere, All at Once
+
+> "When I Choose To See The Good Side Of Things, I'm Not Being Naive. It Is Strategic And Necessary. It's How I Learned To Survive Through Everything." - Waymond
+
+I watched this movie with the highest expectations and it still blew me away. Never before have I cried and laughed so much in a movie at the same time before. I realize it definitely isn't for everyone. Not all the friends I watched it with in theatres felt about EEAO the same way I did. None of them walked out of the theatre having ugly-cried through the final act. 
 
 # Blade Runner 2049
 

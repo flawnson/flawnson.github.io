@@ -2,7 +2,7 @@
 layout: post
 title: "Resources for learning A.I"
 categories: [ development ]
-tags: [ tools, featured]
+tags: [ tools, featured ]
 created: Jan 05, 2020 10:40 AM
 image: assets/images/15.jpg
 ---
@@ -46,6 +46,7 @@ Machine Learning doesn't require a serious technical background in computer scie
 - Full stack web dev
     - If you're into Python, look no further than the [fullstackpython.com](https://www.fullstackpython.com/) website, which covers everything form the basics of Python itself to SQL ORMs, HTML template engines, and Deployment options
     - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)'s YouTube channel has garnered a huge following and with the quality and consistency of content, it's easy to see why. Useful for getting a high level understanding of just about anything you need to know in full stack web dev
+    - I haven't tried it myself but [The Odin Project](https://www.theodinproject.com/paths) is a very interesting take on learning full-stack on your own.
 - Databases
     - There are many database paradigms. Having a general knowledge of the strengths and weaknesses of each will be supremely useful when it comes to building applications
 
