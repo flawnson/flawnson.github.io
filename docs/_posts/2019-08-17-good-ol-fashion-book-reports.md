@@ -303,4 +303,13 @@ If you disagree with something, say no. If you're being low-balled but going alo
 Saying yes is meaningless unless they have pen on paper right then and there.
 
 ## Key takeaways
+
+#  Thinking Fast and Slow (Audiobook)
+I was recommended this book by someone close to me, and so reading it was inevitable. I'm glad I got to it eventually, but I definitely wish I had read it earlier.
+Thinking out loud is the anti-pop-psychology book that my mind has been itching for since I started reading more.
+After Great Thinkers, I felt that I had gotten up to speed with the few decades of smart people doing smart things. Time to get more modern, more applicable psych.
+Daniel Kahneman swept me away with his stories, both with his years of extensive research and instances of personal/anecdotal learnings.
+Thinking out Fast and Slow so seamlessly switches between exposition and example that I got into the rhythm of reading that kept me coming back; a feeling that I wish every book had.
+This is probably the first time I've listened to an audiobook and immediately bought a physical copy.
+## Key takeaways
 <p id="modTime"></p>

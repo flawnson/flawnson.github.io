@@ -39,7 +39,7 @@ These are the resources I came across during my time in the program that helped 
 
 *You are a seasoned programmer. Perhaps you’re coming as an expert from another field like VR/AR, web dev, chemistry, biology, etc. That being said, you have a solid foundation in math and/or coding. A.I is just another skill you want to add to your toolbox.*
 
-**Things you’ll need to suceed:**
+**Things you’ll need to succeed:**
 
 - To know how to [read](https://www.slideshare.net/DamianGordon1/pseudocode-10373156) (and [write](https://blog.usejournal.com/how-to-write-pseudocode-a-beginners-guide-29956242698)) pseudocode
 
