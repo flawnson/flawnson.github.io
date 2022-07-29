@@ -22,7 +22,7 @@ This document is designed to contain the content that I found most useful and de
 
 *There's a mix of content types throughout the document. You'll find one-pagers, cheatsheets, article (and series of articles), videos (and series of videos), MOOCs, books, textbooks, and other creative ways education is distributed online. There is a large range in terms of emphasis of attention; some resources are more cosmetically inclined, others are more dense and utility-heavy. But everything here, in my opinion, is well made; or at the very least made with integrity. I am deeply thankful to the creators and providers of such content.*
 
-> "***'**Amateur.' you say that as if it was a dirty word or something, but 'amateur' comes from the Latin word 'amare' which means love... To do something for the love of it.*" - Mozart in the Jungle
+> "*'Amateur.' you say that as if it was a dirty word or something, but 'amateur' comes from the Latin word 'amare' which means love... To do something for the love of it.*" - Mozart in the Jungle
 
 # Why A.I?
 
@@ -43,12 +43,6 @@ Machine Learning doesn't require a serious technical background in computer scie
 - Data structures and Algorithms
     - Absolutely necessary upon moving into more difficult A.I algorithms. Emphasis on Stacks, Computational efficiency, and Graphs/Trees. These concepts will come up in the A.I specialization, especially as you conceptualize your own models.
         - Udacity has an incredible course called intro to “data structures and algorithms”, perfect for getting the seasoned programmer started with learning the concepts necessary to nail a developer position interview.
-- Full stack web dev
-    - If you're into Python, look no further than the [fullstackpython.com](https://www.fullstackpython.com/) website, which covers everything form the basics of Python itself to SQL ORMs, HTML template engines, and Deployment options
-    - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)'s YouTube channel has garnered a huge following and with the quality and consistency of content, it's easy to see why. Useful for getting a high level understanding of just about anything you need to know in full stack web dev
-    - I haven't tried it myself but [The Odin Project](https://www.theodinproject.com/paths) is a very interesting take on learning full-stack on your own.
-- Databases
-    - There are many database paradigms. Having a general knowledge of the strengths and weaknesses of each will be supremely useful when it comes to building applications
 
 {% capture details %}
 - Thorough knowledge and familiarity with advanced programming concepts like functions and classes is necessary. The quality of your programs will be hugely advanced, and some tools require knowledge in these concepts
@@ -218,6 +212,6 @@ Machine Learning doesn't require a serious technical background in computer scie
 Not for use as the basis for learning machine learning, but rather as a complimentary to whatever regiment you have set yourself.
 
 - Short and sweet, [The 100 page Machine Learning bo](https://www.google.com/search?q=The+Hundred+Page+Machine+Learning+Book+by+Andrej+Burkov&rlz=1C1CHBF_enCA839CA839&oq=The+Hundred+Page+Machine+Learning+Book+by+Andrej+Burkov&aqs=chrome..69i57j69i64&sourceid=chrome&ie=UTF-8)ok is a great primer into ML
-- Courtesy of my friend Nikhil, [Quantopian.com](https://www.quantopian.com/) is a fantastic dive into quantitative finance
+- ~~Courtesy of my friend Nikhil, [Quantopian.com](https://www.quantopian.com/) is a fantastic dive into quantitative finance~~ Quantopian has been shut down :(.
 
 <p id="modTime"></p>
