@@ -304,12 +304,31 @@ Saying yes is meaningless unless they have pen on paper right then and there.
 
 ## Key takeaways
 
-#  Thinking Fast and Slow (Audiobook)
+#  Thinking Fast and Slow - Daniel Kahneman (Audiobook)
 I was recommended this book by someone close to me, and so reading it was inevitable. I'm glad I got to it eventually, but I definitely wish I had read it earlier.
 Thinking out loud is the anti-pop-psychology book that my mind has been itching for since I started reading more.
 After Great Thinkers, I felt that I had gotten up to speed with the few decades of smart people doing smart things. Time to get more modern, more applicable psych.
 Daniel Kahneman swept me away with his stories, both with his years of extensive research and instances of personal/anecdotal learnings.
 Thinking out Fast and Slow so seamlessly switches between exposition and example that I got into the rhythm of reading that kept me coming back; a feeling that I wish every book had.
 This is probably the first time I've listened to an audiobook and immediately bought a physical copy.
+
 ## Key takeaways
+
+#  A Thousand Brains: A New Theory of Intelligence (eBook)
+I discovered this book before it was published because I was familiar with the author Jeff Hawkins a computational neuroscientist that I discovered on a Lex Fridman podcast.
+I was going through an alt-A.I phase by exploring alternative approaches to Machine Learning. I and I soon added this book to my reading list and waited eagerly for it's publication date.
+
+## Key takeaways
+
+#  The Demon in the Machine - Paul Davies (eBook)
+The Demon in the Machine by Paul Davies is one of the books in my collection that I came across on my own while searching for books on topics that I might like.
+After reading the synopsis and seeing the strong reviews on Goodreads I downloaded the book and read it in between sessions of Thinking Fast and Slow.
+
+## Key takeaways
+
+#  Range - David Epstein (eBook)
+Range was recommended to me by Abhinav, who referenced it during a catch call we had. Having heard his raving review I bumped it up on my reading list.
+
+## Key takeaways
+
 <p id="modTime"></p>
