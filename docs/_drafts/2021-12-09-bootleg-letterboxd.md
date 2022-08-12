@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Video games"
+title: "My personal letterboxd (Movies and TV shows)"
 categories: [ content ]
-tags: [ opinion, notes, featured ]
+tags: [ opinion, notes ]
 created: Sept 21st, 2019 2:42 PM
 image: assets/images/13.jpg
 ---

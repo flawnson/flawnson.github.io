@@ -191,3 +191,29 @@ Some tips for cheap flights I've learned over the years:
 - The garden in Retiro is absolutely beautiful and a must visit on a beautiful day. Go to the pond in the middle of the park and see the small palace. Be sure to bring a loved one!
 - Templo de Debod and the Royal Palace are ideal targets for a day trip.
 
+# Aug 10th 2022, New York - USA
+- We hit the road-trip at about 10pm, taking several stops to recharge the Tesla, take breaks, and switch drivers.
+- Day 1
+  - We made a pit stop at Dunkin' and got iced coffee and way too many breakfast sandwiches. We arrived in Manhattan at around noon or so.
+  - After a much-needed shower and nap, we visited Joe's pizza for a couple pies (some of the best pizza in NY but massively overpriced) and went to a rehearsal studio near Times square to meet up with the band.
+- Day 2
+  - Slept in to catch up on two nights worth of sleep, woke up and headed straight to Levain Bakery for some brioche and an insane chocolate chip and walnut cookie.
+  - I met with Kevin at the Museum of Natural History and made the rounds. Visited the featured shark exhibition. Had oysters and fish for dinner at Crave Fishbar and dessert at a Van Leeuwen Ice Cream.
+  - We took the subway back to Kevin's place near Times Square and met up with Abhinav before making our way down to Littlefield in Brooklyn for the show.
+  - Had drinks after the show nearby and late night snacks at plan b in Koreatown.
+- Day 3
+  - Slept in again, packed and dropped off our bags at Shoreham. Had the best oat latte of my life and a decent almond croissant from Blue Bottle Coffee.
+  - Met with Jasmine and roamed around Soho and Chinatown, snacking on rice pudding, Liang Pi, Hand pulled noodles, Xiao Long Bao, and other goodies.
+  - Met with Tonie and his girlfriend for Chinese family style dinner at Congee Village, had some addictive spicy salt and pepper clams. Ended the night with some fantastic Ube ice cream at Smoove
+- Day 4
+  - Woke up and got a Hojicha latte from Blue Bottle (these guys don't miss). Met with Jasmine for lunch at Gupshup, had the most insane morrel mushroom dish I've ever had, and a very interesting spicy mango lassi with green chilli
+  - Dropped by the world's Flagship Uniqlo on 5th Ave, the Starbucks reserve at Chelsea, and Chelsea market for some great Halva and oat milk ice cream, Japanese-style tacos, and an assortment of baos. We walked the Highline to the Vessel and ended the night at the Ice Cube Apple store.
+  - Started the morning with Dunkin Iced coffee, a 6 pack of donuts, Birria tacos from a food truck nearby, and gyro and Shawarma from the original Halal guys food cart. We reached the MoMa before it got too hot outside.
+  - That same day we had oysters and shrimp cocktail, fried brie with honey mustard, avocado spaghetti, ice cream cookies, giant cream puffs, and a slice of pizza that same day. I don't know how I didn't gain weight.
+- Day 5
+  - We had Levain bakery cookies, baguette with jam and butter, and a slice of coffee cake before walking through central park and heading over to the MET.
+  - For dinner we had omakase at Tanoshi Sushi and Sake bar. It was 13 courses an my favorite nigiri was the salmon with torched yuzu miso. The scallop with tuna was a close second. It was byob and we brought a bottle of white wine. For dessert we had Van Leeuwen ice cream.
+- Day 6
+  - Woke up, caught up on some work, and met with Jasmine for lunch at Shake Shack. I had a double Shack Burger with cheese fries and an Oreo shake. We took a stroll through Bryant park and stopped to listen to the ragtime pianist. We dropped by the NY Public Library and saw some really cool manuscripts.
+  - Ramy and I headed to Newark airport very early, and were lucky to get our flights bumped to an earlier time. We flew back to Toronto and were settled in back home by 10.
+- I still think about the food I had.
