@@ -331,4 +331,38 @@ Range was recommended to me by Abhinav, who referenced it during a catch call we
 
 ## Key takeaways
 
+#  Atomic Habits - James Clear
+Range was gifted to me by Abhinav, who has shown me the ways in which it can change your life. I'm not usually a fan of self-help books, but honestly, Atomic habits felt more like a psych book more than anything else.
+I don't consider myself a person with many bad habits, and yet this book was still very impactful and useful to me. The frameworks James Clear has highlighted in Atomic Habits make clear to me what I could never quite grasp.
+James Clear backs up these facts with examples from the most creative places. Many references he makes are the same as those mentioned in "The Talent Code", "Thinking Fast and Slow" and "Range".
+I really enjoyed coming across a passage that reinforced what I had read before, and it also helped me believe in the framework that "Atomic Habits" demonstrates.
+I highly recommend this book to people who have an intrinsic motivation to change something about their life, but may not know where to start or how to think about it.
+Atomic habits may be the catalyst for your version 2.0.
+
+## Key takeaways
+- Habits are the compound interest of self-improvement.
+- Time magnifies the margin between success and failure.
+- Both winners and losers make goals. Goals cannot be what differentiates winners from losers. The systems they use are the difference
+- Make the habit a part of your identity. You are not trying to quit smoking, you are simply not a smoker.
+- As habits are created, it takes less mental effort, the same way an expert builds the foundations they need until it is practically mindless.
+- The habit lifecycle: Cue, Craving, Response, Reward.
+- The cure: Make it obvious (or invisible), make it attractive (or unattractive), make it easy (or difficult), make it satisfying (or unsatisfying).
+- Alter the environment, context, culture, and timing of your habits to make a change.
+- So called "disciplined" people are simply better at structuring their lives in a way that does not require willpower or self-control. 
+- "The best is the enemy of the good" - Voltaire (used to demonstrate how perfectionism can cause procrastination and stagnation because you are hesitant to do something you don't feel like you can "perfectly"). When preparation becomes a form of procrastination, you need to change something.
+- The common belief that if you really wanted it you would do it is a lie. Our real motivation is to be lazy and do what is convenient. We don't seek hard things, biologically speaking, we do what is easiest. "Civilzation advances by extending the number of operations we can perform without thinking about them." - North Whitehead
+- Always remember, what is (immediately) rewarded is repeated, what is (immediately) punished is avoided.
+- The costs of your good habits are in the present. The costs of your bad habits are in the future.
+- We optimize for what we measure, don't measure (and therefore optimize) the wrong thing!
+- "Genes can predispose, but they don't predetermine." - Gabor Mate
+- Remember the "explore vs exploit" tradeoff.
+- Ask yourself: "What feels like fun to me, but work to others?", "What makes me lose track of time?", "Where do I get greater returns than the average person?", "What comes naturally to me?"
+- When you can't win by being better, you can win by being different. Boiling water softens a potato but hardens an egg.
+- Be comfortably outside your comfort zone (4% of your current ability apparently)
+- Remember that even the pros have their off-days, the difference is that they persist and show up anyways (see GSP's quote).
+- "Men desire novelty to such an extent that those who are doing well wish for a change as much as those who are doing badly." - Machiavelli
+- Once a skill has been mastered there is usually a slight decline in performance over time (partly because your brain no longer tries as hard and you start to get too comfortable and slip)
+- The final chapter, "Little lessons from the Four Laws" is so good that I won't even bother quoting because you should just read the whole chapter.
+- Remember the Diderot effect, Premack's Principle, the Sorites Paradox,
+
 <p id="modTime"></p>

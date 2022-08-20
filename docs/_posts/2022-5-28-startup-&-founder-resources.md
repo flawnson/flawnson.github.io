@@ -36,6 +36,7 @@ I hope this might be useful to you.
 * Immerse yourself in the [terminology and jargon](https://foundersbook.co/startupcards?utm_content=null&utm_source=Sailthru&utm_medium=email&utm_campaign=Friday%20Email&utm_term=4ABCD).
 * Learn how to build viral products with NFX's playbook that you can download [here](https://www.dropbox.com/s/lgitysae9a4qgm6/8%20Playbooks%20For%20Building%20Viral%20Products.pdf?dl=0)
 * It good to have mental models like the ones listed at [Conceptually](https://conceptually.org/concepts) and to keep track of the [logical fallacies](https://yourlogicalfallacyis.com/) and [cognitive biases](https://yourbias.is/) that you have as a founder.
+* While you certainly can do this alone, it's probably a lot more fun with a partner or a team, look no further than this [shortlist of places to meet co-founders](https://indiehackers.com/post/meeting-cofounders-27-places-to-find-them-780bb9ad73)
 
 # Resources
 ## Prototyping
@@ -60,7 +61,7 @@ These are some communities you could consider joining. You'll never be alone in 
 * 💎 [HackerNews](https://news.ycombinator.com/)
 * 💎 [Indie Hackers](https://www.indiehackers.com/)
 * 💎 [Product Hunt Discussions](https://www.producthunt.com/discussions?ref=header_nav)
-* 💎 [Maker Log](https://getmakerlog.com/)
+* 💎 [Makerlog](https://getmakerlog.com/)
 * 💎 [Awesome Visibility](https://github.com/dehenne/awesome-visibility) has a great collection of communities.
 * 💎 [Founder's Cafe](https://founderscafe.io/about) a rather exclusive community of founders who are very serious about growth.
 * 💎 [Betalist](https://betalist.com/)

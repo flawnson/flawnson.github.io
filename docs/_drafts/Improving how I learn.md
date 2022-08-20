@@ -30,6 +30,7 @@ Practice testing math questions strengthens the connections between question and
 Elaboration/analogization of new concepts creates new connections with previously known concepts (most often with existing concepts that are already well established) to further understand new concepts from multiple perspectives. (Creating a new edge between two disconnected graphs)
 
 In conjunction with both macro and micro scheduling strategies (spaced repetition and interleaving) all the above strategies make quick work of any new concept.
+I've also tried incorporating the [Zettelkasten Method](https://www.youtube.com/watch?v=rOSZOCoqOo8) to my note-taking and reading/writing strategy.
 
 # Content Management
 
@@ -67,6 +68,8 @@ I discovered Roam when it was recommended by a friend, Abhinav Boyed, who though
 In my humble opinion, Roam is best suited for specific types of information *ELEBORATION NEEDED*.
 
 [Link to my graph](https://roamresearch.com/#/app/Teleos/graph)
+
+I recently moved my Roam notes to Obsidian. I found that Obsidian has been developing faster, and I love the flexible paid plans
 
 ## Zotero
 Having using Zotero and Mendeley, I must say I prefer Zotero.
