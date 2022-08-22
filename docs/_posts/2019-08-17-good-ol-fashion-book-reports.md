@@ -288,6 +288,24 @@ I like that they don't hold back on using controversial figures in history to te
 Key takeaways will simply be some of my favorite quotes from the book.
 
 ## Key takeaways
+- Plato the OG "know yourself" preacher. He believed that when you fall in love, you love them because they have a particular quality that you want. He also believes in role models partly for this reason.
+- Aristotle believes in balance; every good virtue is in the middle of two vices. He also believes in understanding all aspects of someone's disagreement with your views.
+- Stoics believe that anxiety flourishes in teh gap between what we fear might, and what we hope could happen. The larger the gap, the greater tha disturbances.
+- Stoics believe that you should face your fears and the worst possible scenarios in order to better prepare for them. Every tragedy should be priced in. They believed that anger stems from naivety.
+- Augustine believes that we should be sceptical about power and generous towards weakness. Much of what we get we don't deserve (good or bad).
+- Thomas Aquinas was a different kind of religious person. Unlike others in his time, he believed that you should attempt to understand the world on the basis of personal experience, observation and individual thinking.
+- Do not be dismissive if an idea comes from an (apparently) 'wrong' source, someone with the wrong accent, an article with a different political creed, or language that seems to pretentious or simple.
+- La Rochefoucauld was all about aphorisms. Some of my favorites: 
+  - "We all have strength enough to bear the misfortunes of others"
+  - "There are some people who would never have fallen in love, if they had not heard there was such a thing."
+  - "He that refuses praise the first time it is offered does it because he would like to hear it a second."
+- Spinoza worshiped a different god; that of the natural world. He believed that to truly worship God one must learn to see things from the perspective of living things.
+- We are just like animals - except, because of our greater self-awareness, even more unhappy.
+- Nietzsche taught us to try and "become who we are", a.k.a live to your fullest potential. He reasoned that post feudalism has led to greater feelings of envy (in the past it would have never occurred to the pauper to feel envious of the prince.).
+- Nietzsche reasoned that Christian value systems stems from the lack of opportunity; sexlessness turned into 'purity', weakness became 'goodness', submission to people you hate is 'tolerance/obedience', and not being able to fight for yourself became 'forgiveness'. Religion should be replaced by culture.
+- If the going gets tough, it's a sign of the nobility and arduousness of the task you've undertaken.
+- "The possibility that life doesn't have some preordained logic and is not inherently meaningful can be a source of immense relief when we feel oppressed by the weight of tradition and the status quo."
+- ""
 
 #  Start With No - Jim Camp (eBook)
 A few months ago, Masterclass had a special sale. My friends and I browsed the course catalog and after a brief deliberation we thought we'd get the course on negotiation. 
