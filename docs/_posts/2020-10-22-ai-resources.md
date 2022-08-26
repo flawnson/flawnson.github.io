@@ -68,22 +68,21 @@ Machine Learning doesn't require a serious technical background in computer scie
 
 
 {% capture details %}
-- Advanced Programming
-    - To reach this point, one should have a strong foundation built with OOP, Data structures/Algorithms, and skills with some handy dev tools. Fluency in at least one language as well as some background in other languages (ideally one that is different from your native language) is beneficial.
-        - Design Patterns have their criticisms, but are useful as they are ubiquitous. If you can a hand of the OG GoF textbook online, definitely give it a go, otherwise, settle for "Head first: Design Patterns", or "Dive into Design Patterns"
-        - Youtube has a great wealth of design pattern resources, one of my favorites of which is a [playlist by Christopher Okhravi](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
-        - This [brief video by William Lin](https://www.youtube.com/watch?v=bVKHRtafgPc&t=223s), a competitive programmer provides a great outline on how to get into programming
-    - Also start learning [vim](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor)
-        - Start with vimtutor (on mac and linux type in `vimtutor` in your terminal, on Windows... tough luck)
-        - Also have a peek at some of the many [vim cheatsheets](https://www.fprintf.net/vimCheatSheet.html) (there are many, I just linked the most generic one)
-        - In the meantime, use something like Anki to rote memorize commands
-        - Anki is for learning words, the [vim grammar](https://takac.github.io/2013/01/30/vim-grammar/) is for writing poetry
-        - Indoctrinate yourself as a vim vimmer by watching the top two ([1](https://www.youtube.com/watch?v=_NUO4JEtkDw), [2](https://www.youtube.com/watch?v=wlR5gYd6um0)) vim tutorials
-        - Use [vimgenius](http://www.vimgenius.com/) to practice, or [vim adventures](https://vim-adventures.com/) if you're into that kinda thing
-        - Pick up some basic [vimscript](https://learnxinyminutes.com/docs/vimscript/) along the way, and learn about [.vimrc](https://github.com/amix/vimrc)
-        - Get destroyed by the pros over at [vimgolf](https://www.vimgolf.com/)
+- To reach this point, one should have a strong foundation built with OOP, Data structures/Algorithms, and skills with some handy dev tools. Fluency in at least one language as well as some background in other languages (ideally one that is different from your native language) is beneficial.
+    - Design Patterns have their criticisms, but are useful as they are ubiquitous. If you can a hand of the OG GoF textbook online, definitely give it a go, otherwise, settle for "Head first: Design Patterns", or "Dive into Design Patterns"
+    - Youtube has a great wealth of design pattern resources, one of my favorites of which is a [playlist by Christopher Okhravi](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+    - This [brief video by William Lin](https://www.youtube.com/watch?v=bVKHRtafgPc&t=223s), a competitive programmer provides a great outline on how to get into programming
+- Also start learning [vim](http://www2.geog.ucl.ac.uk/~plewis/teaching/unix/vimtutor)
+    - Start with vimtutor (on mac and linux type in `vimtutor` in your terminal, on Windows... tough luck)
+    - Also have a peek at some of the many [vim cheatsheets](https://www.fprintf.net/vimCheatSheet.html) (there are many, I just linked the most generic one)
+    - In the meantime, use something like Anki to rote memorize commands
+    - Anki is for learning words, the [vim grammar](https://takac.github.io/2013/01/30/vim-grammar/) is for writing poetry
+    - Indoctrinate yourself as a vim vimmer by watching the top two ([1](https://www.youtube.com/watch?v=_NUO4JEtkDw), [2](https://www.youtube.com/watch?v=wlR5gYd6um0)) vim tutorials
+    - Use [vimgenius](http://www.vimgenius.com/) to practice, or [vim adventures](https://vim-adventures.com/) if you're into that kinda thing
+    - Pick up some basic [vimscript](https://learnxinyminutes.com/docs/vimscript/) along the way, and learn about [.vimrc](https://github.com/amix/vimrc)
+    - Get destroyed by the pros over at [vimgolf](https://www.vimgolf.com/)
 {% endcapture %}
-{% capture summary %} Intermediate programming {% endcapture %}{% include details.html %}
+{% capture summary %} Advanced Programming {% endcapture %}{% include details.html %}
           
 - General Programming resources
     - I literally worship Runestone Academy's library of courses. Each little course serves as a great touch up on topics you may have encountered before, or as a way to get your feet wet in something new, as I have with the [Java for Python programmers coursette](https://runestone.academy/runestone/books/published/java4python/Java4Python.html)

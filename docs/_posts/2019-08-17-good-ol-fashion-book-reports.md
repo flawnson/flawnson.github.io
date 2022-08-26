@@ -367,6 +367,361 @@ If you disagree with something, say no. If you're being low-balled but going alo
 Saying yes is meaningless unless they have pen on paper right then and there.
 
 ## Key takeaways
+One of the most effective life insurance salesmen I ever saw was a man in a wheelchair who could not speak. He used a marker and a board to communicate, patiently writing out his questions.
+
+Cold calling is the worst way to do business, we all know that. But I say it’s also a great way, because it’s a great training ground, and it can be surprisingly effective because your neediness is under control.
+
+While needy negotiators raise their voices, negotiators under control lower their voices. So lower your voice in times of inner turmoil. Slow down.
+
+
+Fear of rejection is a sign of neediness—specifically, the need to be liked.
+
+In labor-management relationships, a key tactic of management is to find union members who want a boost to the ego and can therefore be made to feel needy.
+
+There are always one or two in which the lion or the cheetah is not successful, and each time the scenario is the same: The predator gets closer to the prey … closer … closer, then slips back slightly—and immediately gives up.
+
+Likewise, we compare ourselves to others in order to see how we stack up. Are we a little ahead or a little behind? When we are with people we think we
+
+The wise negotiator knows that only one person in a negotiation can feel okay, and that person is the adversary.
+
+
+(Not out of neediness, note, but out of unokayness. Neediness is an internal state, unokayness a public presentation.)
+
+
+“Our greatest strength is our greatest weakness.” How true. We tend to overplay our hand, so to speak, but as negotiators we must control this instinct while letting it blossom in our adversary.
+
+The tougher the negotiation, the more critical it is to understand that if someone in this room has to be unokay, it will be you and not your adversary.
+
+? Because “no” is a real decision that induces the party across the table into actually thinking about why they’ve just said “no.” The responsibility of making a clear decision helps the adversary focus on the real issues of the negotiation.
+
+
+Neither side? That’s correct, because if you do “save the adversary,” you are now partially responsible for their decision.
+
+The classic win-win dilemma is this one: How much money do I have to leave on the table in order to maintain this relationship?
+
+Making decisions based on a sense that the adversary seeks your friendship is misguided. They would much prefer your effectiveness.
+
+
+So we live in fear of that wrong decision, and that fear binds us. Unnecessary fear of a bad decision is a major stumbling block to good decisions.
+
+
+A negotiation is a series of decisions. When—not if, but when—you make a bad decision, you simply follow it with a better one.
+
+I’ve heard that theory, which holds that the company merely pretended to replace Coke Classic with New Coke in order to
+
+Then we have another giant, Microsoft, which was dead wrong for years in its dismissive attitude toward the Internet. When Bill Gates realized his error, he turned his giant company of fifteen thousand employees on a dime.
+
+Nothing—absolutely nothing—is more important to a successful negotiation than for you to make as clear as posssible from the very beginning that “no” is a perfectly acceptable response at this negotiating table.
+
+“Why take this deal?”
+“The whole thing sounds too good.”
+“Maybe I can win even more.”
+“Why are they making this so easy?”
+“What do they know that I don’t know?”
+“This can’t be right.”
+“How can I get out of this?”
+
+
+How many decisions will make things tougher today than they were yesterday but benefit you dramatically in the long term?
+
+but after receiving this comprehensive, carefully negotiated proposal, the supply system management team at the chipmaker tried to break out the pieces of the proposal and negotiate them separately. Why? To induce compromise, of course.
+
+
+This was a negotiation, pure and simple, and my client developed the specific mission and purpose of getting the head of the neonatal unit to see and decide that he was risking the baby’s life by transferring her to another hospital. Having this idea in place guided what the parents said to the doctor and how they said it. It helped them keep their emotions in check, and this in turn prevented the doctors from lumping them—understandably enough, perhaps—into the category of emotionally overwrought parents who don’t have to be taken seriously.
+
+What happens if you don’t have a valid mission and purpose in place? I’ve learned that a surefire way to get everyone’s attention is to answer that question this way: If you’re not working on behalf of your own mission and purpose, you’re working on behalf of someone else’s.
+
+The mission and purpose is not self-evident. If you work for yourself and do not have one in place, you are working at a great disadvantage. You’re just as vulnerable to working and negotiating on behalf on an invalid mission and purpose as is an employee at a giant, faceless multinational corporation.
+
+The great coach Vince Lombardi of the Green Bay Packers did say, for commercial purposes, “Winning isn’t everything, it is the only thing,” but when I heard him address the football team at Ohio State during spring practice in 1965, I believe, he put the point somewhat differently: “Winning isn’t everything, but the will to prepare to win is everything.” I trust the distinction between the two statements is clear.
+
+because winning is beyond our control, while preparation is 100 percent under our control. And what is the cornerstone of preparation? Mission and purpose.
+
+
+Setting the mission and purpose in the constituents’ or the customer’s or the adversary’s world allows all of them to see clearly the features and benefits that you and your product or service have to offer them.
+
+In a valid mission and purpose, our world must be secondary. You might understandably ask why, if it’s my mission and purpose, do I want to focus on someone else? Because unless you live alone on a desert island, your mission and purpose is to focus on someone else. That “someone else” is your lifeblood, whether you’re a politician, a doctor, a patient, a businessperson, or a negotiator. Don’t ever forget this. As a negotiator, you don’t go anywhere without your adversary, by definition.
+
+
+To help [the other company’s] management at the very highest level see our company as a new and revitalized organization that is going to change its effectiveness to the benefit not only of their company but also to that of the whole industry by becoming a more effective and competent supplier to that industry.
+
+
+
+By now, the phrase “see and decide” in most of the mission and purpose statements presented above must be obvious. Why this phrase? Often, you want to create a vision in the other party that will move them to take action.
+
+By this progression we arrive at the real answer to what we can control about ourselves: behavior and activity, or as I sometimes put it, an action or effort to an end.
+Your anger following an insult is not under your control, but your behavior is. You decide whether to strike back in some way or to turn the other cheek. In your life, in your negotiations, you develop habits of behavior, good and bad, and you have activities that you pursue that help or hinder you. Everything else—everything, including all results—we might as well think of as acts of God.
+
+
+If I were a beginner in the study of decision-based negotiation (as opposed to emotion- and compromise-based negotiation), my initial goals would be to focus at all times on my mission and purpose, to control my neediness and never demonstrate neediness, to always allow my adversary to be okay, to have no fear of saying or hearing “no”—the subjects of the preceding chapters. Right there you have four very straightforward, obtainable, valid goals that, if carefully followed, would make you an excellent negotiator, relative to the field. But the real point I want to get across here is the distinction between a goal and a result (or objective, as it’s commonly labeled). Goals you can control, objectives you cannot. By following your behavioral goals, you get to your objectives.
+
+
+Or think about it this way: After you’ve led the horse to the water, can you make it drink? The old adage says no, and the old adage is right.
+
+
+the unnecessary compromise in the course of chasing an invalid goal. That’s a killer.
+
+
+By following your valid goals you obtain your objective. By obtaining your objective you further your mission and purpose. At all times you set goals and objectives that are as valid as the mission and purpose they serve.
+
+In the real world, the negotiation does not end when the paper is signed. Tough negotiators for the multinationals—supply systems management types—operate under the assumption that contracts are easily broken, that this is just part of business, and that their corporations have more legal staying power than the smaller businesses they’re dealing with.
+
+
+If your goal had been “to sign the deal,” you were upset, and then you were in trouble, because you didn’t know what to do next. But if your goal all along had been behavior and activity over which you had control, you had no problem at all. The first negotiation was now followed by a second negotiation. Back to work! Big deal.
+
+
+Payside activity is everything directly related to the negotiation, from setting valid appointments and meetings to making the final presentation. Nonpayside activity is stuff you have to do that isn’t directly on the track of the negotiation. Filling out expense forms, for example, and other sorts of bureaucratic paperwork are the lowest form of nonpayside activity.
+
+With nonpayside activity, there’s no immediate gain, but neither is there immediate risk, and this is tempting to us.
+Payside activity does have potential reward, but it also holds risk, and it’s hard work.
+
+One of the characteristics of really successful negotiators is how swiftly and efficiently they shift from nonpayside activity to payside activity.
+
+
+I mentioned in chapter 1 the salutary discipline imposed by cold calling, and this is true, but it is nonpayside activity. Be sure you understand this. Be sure you don’t cold-call or do the equivalent if you have a legitimate payside activity waiting.
+
+
+For many of us, the problem with questions is that we have been trained in our respective educational settings to be the smartest person in the room. How do we accomplish this? By answering questions, of course. Very few of us are trained to ask them, and even those whose professional work depends on this skill—I’m thinking of doctors and lawyers now—often don’t do a very good job of it.
+
+
+No vision, no real decision: this is a rule of human nature.
+
+
+Asking questions is a science and an art. The science is in how you intellectually construct a question. The art is found in how you ask it: your tone of voice, your creative choice of words, your behavior and remarks before asking your question.
+
+The answer to the verb-led question usually does not give you worthwhile information.
+
+It seems subtly manipulative, and usually it is subtly manipulative. Most people don’t really want to say “no” in the first place, as we’ve discussed, so if your question makes it even harder for them to do so, you have created an uncomfortable, defensive adversary, and this does you no good at all.
+
+
+“Is this what you really want?”
+“Isn’t this what you really want?”
+
+Both are verb led, and therefore dubious, but the inclusion of the word “not” makes the second question a really terrible one, because of the insinuated “rush to close.”
+
+With a question such as “What would you like me to do?” you invite the adversary to indulge this weakness. Moreover, her answer allows you to enter her world and her vision.
+Likewise, when I ask, “How are you?” whose world am I entering? Whose world am I entering when I ask, “Now why did you invite me to this meeting?” Whose world when I ask, “What’s the biggest challenge your company faces?”
+
+
+“Is this the biggest issue we face?” versus “What is the biggest issue we face?”
+“Is this proposal tight enough for you?” versus “How can I tighten this proposal?”
+“Can we work on delivery dates tomorrow?” versus “When can we work on delivery dates?” or “How important are delivery dates?”
+“Do you think we should bring Mary into the loop now?” versus “Where does Mary fit in?” or “When should we bring Mary into the loop?”
+“Is there anything else you need?” versus “What else do you need?”
+“Do you like what you see?” versus “What are your thoughts?”
+
+
+
+No vision, no decision? Of course. And now I add, no interrogative-led questions, no vision, no decision.
+
+
+
+In a negotiation, nurturing will keep the negotiation going through thick and thin. Your ability to nurture will be the key to bringing the negotiation back to the table after a breakdown. Your ability to nurture your adversary, to put him or her at ease, is the key to assuring her that you are listening and that you value what she has to say. Nurturing is also just another way to allow your adversary to feel okay.
+
+
+The truly comfortable, trained negotiator takes it easy. When in doubt, slow your cadence of speech, lower your voice. As the old saying goes, laughter often is the best medicine, especially laughter directed at ourselves. Laughter is a way to nurture everyone in the room—including ourselves.
+
+. Think of the sentence “Is this what you really want?” These six words can cut either way. If I say them abruptly and abrasively, they’re the opposite of nurturing. But if I ask the question quietly and with concern, even though it’s a verb-led question, it’s very nurturing. I see nothing wrong with taking a minute right now to put this book down and ask that question aloud in a number of ways, including “IS THIS WHAT YOU REALLY WANT?!” and, softly, “Is this what you really want?”
+
+
+Vital point: The reverse should be preceded by a short nurturing statement, because you don’t want to sound like a district attorney during cross-examination. Without the nurturing tidbit, the reverse will do you little good, but if you have any doubt that the nurturing reverse works, try it the next time you’re talking with someone at the proverbial watercooler.
+
+
+In any negotiation, the reverse assures that you’re dealing with an important question for you, thereby allowing you to gather more insight and information. Your job is to get information from the adversary by asking questions, not to provide information by answering questions. Reversing is nothing more than the lawyer’s standard technique of clarification. Questions and reversing help us get into the world of the adversary. They are the way we create vision. Without reversing and asking questions, we’ll get nowhere.
+
+
+
+As I’ve said in several contexts, we have a tendency to want to save our adversary, to be liked. This instinct can impel us into these three common negotiating errors, which I have derived from what every attorney tells his client before a deposition or testimony: never answer an unasked question; don’t interpret a statement as a question; and never reply to random statements.
+
+
+
+That little word “and,” when asked as a question, is an excellent connector.
+
+“I don’t like what I see, Jim.”
+“Aannnnnnnnd?” [This is drawn out, accompanied by a shrug. The adversary now has to fill in the picture for Jim.]
+“I can’t get too excited about this until I see your competition.”
+
+Fine. You’ve learned something.
+In effect, the connection is another type of reverse.
+
+
+Profound, silent concern on your part can also serve as a connector. People don’t like silence. It’s the void that our nature abhors. Your adversary will rush to fill in the blank.
+
+
+The task of the good negotiator is to keep the pendulum as close as possible to a calm, stationary mode. The big negative swings don’t do anyone any good in the long run, and neither do the big positive swings.
+
+
+Find a good opportunity to say, “Wow, this is bad. I don’t know if we can ever recover from this.” Quite likely, your adversary will then help you recover. It’s so much fun when this happens.
+
+
+Your ability to blank slate is directly related to your ability to rid yourself of expectations and assumptions, two very bad words in my system of negotiation. Real taboos. By nature, we humans are chock-full of expectations and assumptions. As a negotiator, you must learn to recognize them and set them aside.
+
+And say they don’t jump—and they won’t, because the champagne can wait and they’ve played this game a million times. Instead, they come back and announce that they’ve decided to spread the purchase of these units among several vendors after all. Moreover, they’ve miscalculated their inventory. Turns out they only need 10,000 new units, not 33,000, and they want us to supply only 3,000 of these at the same incredibly good unit price we just agreed to for an order ten times as large. And by the way, they hint broadly, they’re going to be very disappointed if we don’t give them that price, if we say “no.”
+
+
+Once you really start using my system, you are so dedicated to goals over which you have control, so oblivious to anything over which you don’t have control, and so free of neediness that expectations shouldn’t even enter into the equation.
+
+
+How? By doing a lot of things we’ve talked about in previous chapters. He was able to hear the world say “no” to him in the form of failed experiments; he was able to embrace failure; he was able to set activity goals he could manage, not ends he could not control—such as powering an airplane with a steam engine; and he was able to blank slate and start all over. When the solution to powered flight proved to be the gasoline engine, not the steam engine, Langley embraced the new knowledge. If he had continued along the dead-end road that was his steam engine, he would never have contributed to aviation, and Langley Air Force Base in Virginia would now be named for someone else.
+
+
+“Retirement”? The word can mean a million things. You don’t know what I mean until you ask questions (interrogative-led questions such as “Why do you want to retire?”). If you accepted my $2 without question, you made an assumption that I wouldn’t pay more than $2, and I never said I wouldn’t. If you believed me when I said I was too busy, you assumed that I was telling the truth, and you assumed you knew what I meant by the word. But what does “busy” mean to me? Could we have different definitions? Of course we could. You have to find out.
+
+
+Our assumptions always work against us. Their assumptions can work for us.
+
+
+They know that what is really said and what we actually hear during a negotiation is far more important than what
+
+First just listen with the most open possible mind. Don’t judge. That comes later.
+
+
+And then, on the plain practical side, notes are our documentation of what was said—and also what was done or gestured, because great note takers make note of nonverbal behavior and moods.
+
+
+That’s because many people knowingly spill beans as they fight for the feeling of self-importance. Kind of pitiful, but true. People also spill beans in the very mistaken belief that this will help advance their own position or agenda, like in The Godfather, Part II, when poor, weak Fredo spills to Hymen Roth (by way of Johnny Olla)
+
+. I urge my clients to say to the candidate, “We’re going to commit to a financial package that will be at the top of the industry, but we’re not going to reveal it until we have your commitment to take it or reject it. We don’t want this package to be used to start a bidding war with your current company.” This is a fair approach, but companies are afraid they’ll lose the candidate, so they spill the beans, and then they lose the candidate because they spilled the beans when he uses the package for leverage and re-ups with his current company.
+
+
+. If you feel you cannot blank slate for any reason, you have only one option: cancel the negotiating session. This is how important the blank slate is.
+
+
+I also know that the ability to envision is directly linked to the level of success we can achieve. The greater the ability to envision, the greater the potential for success. If you can’t see it, you’ll never be able to do it.
+
+
+Before a negotiation, see that negotiation unfolding in your mind. Picture yourself asking the questions, taking the notes, and negotiating with perfect behavior. See yourself relaxed with no expectations, no need, and no fear—a perfectly blank slate. It works, even for a hard-nosed corporate negotiator.
+
+
+His answer: “It is to wage war, by sea, land, and air, with all our might and with all the strength that God can give us: to wage war against a monstrous tyranny, never surpassed in the dark, lamentable catalogue of human crime. That is our policy.”
+To whom was Churchill directing that remark? With whom was he negotiating? Not with Hitler. To hell with Hitler, literally. No, the new prime minister was negotiating with the constituencies of his potential allies in the democratic West.
+
+McColl had been in banking forty-one years, starting with a small one in North Carolina, building what is now Bank of America. A member of the audience asked how McColl had successfully negotiated over one hundred mergers and acquisitions, and he answered, “I really try to get inside their head before I ever get in the room with them.” Exactly! And what was McColl looking for inside the adversary’s head? The pain, to use my nomenclature.
+
+
+
+(In the political and moral realm, you could almost define leadership as the effective painting of the pain shared by leader and people.
+
+In many cases, the pain will be pretty straightforward and the issues pretty clear. But sometimes you really have to dig. The purchase of life insurance comes to mind. I can think of a simple reason someone might give the salesman setting up an appointment—“Well, I guess my wife and kids just need some life insurance”—but I can see that hidden behind this general emotion could be a host of particular circumstances, and it would be the particular circumstance, not the general emotion, that generates the deal in the end.
+
+
+
+“Oh, come on,” you may blurt. But it’s true. Sometimes the adversary just doesn’t get it. “But wouldn’t this be good?” new clients have asked. “If I figure out their pain and they don’t, doesn’t this put me one up? Doesn’t it allow me to sneak up on them?” No, this is poppycock. It’s not real world. If the company on the other side of the table doesn’t understand that they need your machine and no other machine, what’s their incentive in the negotiation? If the real estate agent doesn’t understand that this lunar-powered house in the middle of the lake is so quirky very few people will be interested, where’s the incentive to come down from the ridiculous asking price? You think anyone is going to make a deal without a very clear vision of why they need to make this deal? Please.
+
+
+“Your greatest strength is your greatest weakness.” I quote these words from Emerson for the second time, because truer words were never written. For a negotiator, they’re pure gold. The naturally glib negotiator talks too much. The brilliant negotiator tries to overpower his adversary with intelligence. The friendly, compassionate negotiator tries to “save” his adversary. The aggressive negotiator tries to browbeat his adversary.
+
+For some strange reason, I got to thinking about Beat the Clock years later, and I realized that we, the audience, focused on the clock, while we should have been watching the contestants’ activity and behavior. Worse, the contestants were always looking up to see how much time they had remaining. But this shouldn’t have mattered. They were working as fast as they could, weren’t they? If they beat the clock, they beat it; if they didn’t, they didn’t. Watching the clock only slowed them down and made it more likely that they would not beat the clock. Bottom line: usually it wasn’t the clock that beat them. They beat themselves with what I call invalid behavior.
+
+
+Only the money budget is numerical. The other two employ a different kind of assessment, but one that we can keep up with quite accurately. My rough-and-ready formula for calculating the overall budget for a negotiation gives “time” a value of x, “energy” 2x, “money” 3x, and “emotion” 4x. Obviously, these are not empirically based numbers. They’re a way to drive home the point of relative importance. If you are spending only time and energy in a negotiation, you have a budget of 1x × 2x, for a total budget of 2x.
+
+In a phrase, time intensifies pain. As the investment of time mounts higher and higher, so does the psychological pressure. Many negotiators allow themselves to get the sense that they’re under a deadline, beyond which they’ve “wasted their time.” My clients love to hear from the other side, “Okay, let’s cut to the chase,” because this may mean that the time-and-energy budget for the adversary is reaching its allotted total,
+
+For your own part, make certain that you do have “all the time in the world”—and if you don’t, be ready to walk away. Remember, you only want this deal, you do not need this deal. They may now need this deal. Crucial difference. (As I’ve said, in a negotiation between two Camp-System adversaries, there’s little need for budget-building tactics, because both parties are trained to move quickly to the essential issues, the essential vision, the essential pain, the essential decisions.)
+
+Invalid, pointless appointments and meetings? A waste of energy. Accepting “maybe” for an answer? A waste of energy. Accepting “yes” for an answer? A waste of energy. Asking questions that don’t do you any good? A waste of energy. Failing to blank slate, making assumptions instead of doing valid research? A waste of energy. Needing something? A terrible waste of energy.
+
+
+Most well-trained adversaries will try to use energy against you, whether they would put their actions in these terms or not. But if you’re stood up, for example, exactly how much energy over and above the time that’s wasted is under your control? And you can respond in kind, of course. Build their energy budget. Increase the preparation required by the adversary to complete the deal (“This just doesn’t make sense to us. Can you redo it?”). Tactically withhold decision makers from the negotiation (“We’ve talked this over and decided that your team needs to go to New York to show this to Mr. Smith”). Always be guided by your mission and purpose.
+
+
+Just as with time-and-energy, you want money to work for you and against your adversary. You will try to drive up your adversary’s budget by making the negotiation literally expensive, and your adversary will try to do the same, because everyone knows that a money squeeze is often followed by compromise if the untrained
+
+The moral of this story: If you know the price and manage your time and energy and money and stay within budget and serve your mission and purpose, you’re okay regardless of what the boss does.
+
+
+
+I’ll stick by my original calculus: time is 1x, energy is 2x, money 3x, and emotion 4x. Emotions have an extremely high value in any negotiation. The value of the negotiation increases by many multiples when emotional pain or excitement is invested.
+
+
+Some experts specialize in analyzing how decision making differs culturally around the world. In the United States we supposedly have a vertical process, while in Japan it’s horizontal. I believe that most decision-making structures have both elements, and many surprising twists and turns as well.
+
+Why do negotiators often fail to find the real decision process? Why do many want to just get a decision, any decision, and get the heck out? One reason, I believe: They fear that they don’t have the right behaviors to negotiate with the real decision makers.
+
+you find out the truth on any issue in a negotiation: You ask those interrogative-led questions.
+
+“Of course you make the decisions. But who else might you want to talk with?”
+“Who might be of service in making this decision?”
+“Who should we invite to support your decision?”
+“Who’d be sorry or upset if we left them out?”
+“How will this decision be reached?”
+“When will it be reached?”
+“What criteria and paperwork must be in place for it to be reached?”
+
+
+We want to make a beneficial difference. We want to feel okay. And a key way we can do this is to insinuate ourselves into the decision-making process.
+I call these sweet folks who want to play some kind of role “blockers.” Beware of them. Once you have determined who the real decision makers are, it’s often hard to get to them because of the blockers standing in the way. If you can’t go around or over the blockers, you’ll never get your deal.
+
+
+Do the blockers think of themselves as blockers? Sometimes yes, because they are under explicit instructions to block, but often no. They just know what makes them feel okay.
+
+You can get around your basic blocker in several ways. A surefire way is simply to start at the top. What happens if you start at the top? The top boots you down the ladder to the blocker, but this is fine because, presumably, you’ve been introduced into the blocker’s territory with a stamp of approval. The blocker knows it’s okay to talk to you, and the blocker knows that you know that he is indeed a blocker. Start at the top and you will be in a position to report to the top. You have a hall pass to the corner office upstairs. Blockers will therefore treat you with respect. If the CEO had time to talk to you, the blocker has time to talk to you. Or he had better find the time.
+
+
+In my system, there are no hidden agendas. What would be the point of one? You hope to get a deal that sticks in the end by springing surprises? Hope again. The only agenda that is valid for purposes of negotiation—the only agenda that will produce results—is the one that has been negotiated with an adversary. Take a moment and be certain that you understand the implications of this rule: The only agenda that is valid for purposes of negotiation is the one that has been negotiated with the adversary. The more effective you are in negotiating the agenda, the more comfortable the adversary organization will be in allowing you into the inner sanctum. Your competence will be appreciated and embraced.
+
+
+You may have a major agenda and several mini-agendas, some of which you resort to only if a problem comes up outside the scope of the major agenda. A mini-agenda can be almost anything, and it must be everything it needs to be. No detail is too minor.
+
+
+
+Your adversary will not resent your question about baggage. He wasn’t born yesterday. He’ll know where you’re coming from. He’ll respect you for asking. Or maybe the baggage you lay on the table does kill the deal then and there. Maybe your adversary just won’t take seriously anyone who’s relatively inexperienced. (It happens.) So what’s the loss if you lay your inexperience on the table and the adversary walks away? You weren’t going to get anywhere anyway. You’ve kept your time-and-energy budget extremely low.
+
+The line between problems and baggage is a thin one, obviously, and not a critical one. Baggage discarded by all concerned is not a problem. Baggage that isn’t discarded remains a problem. Just be sure that every problem and every piece of baggage is placed on an agenda. Use your imagination, use your experience, use your common sense. When in doubt, err on the side of including a candidate problem or baggage on the agenda.
+
+
+Of all the issues in the negotiation that should be placed on an agenda but often are not, wants are supreme. In this regard, they are our greatest cause of failure. Often negotiators don’t know what they want—not really—not step by step by step by step down the long and winding road. They just want a signed deal, that’s all. They don’t have a clue about what they want at every step of the decision-making process along the way. They’re thinking about ends, which are out of their control, not about means, which we control with agendas.
+
+
+Now, I want to take a closer look at the list above, because these wants are not quite sharp enough. Think about this question: What does every want entail from the adversary? A decision, of course. This is almost by definition, because any progress depends on decisions. Therefore, I’d like you to consider each want in the negotiation in terms of the decision required of the adversary in order to fulfill it.
+
+But you must learn very quickly to take care of business by carefully negotiating what happens next.
+
+
+’ve seen many more times when the presentation was positively harmful to the presenter’s standing in the negotiation, or even fatal. I say instead that the greatest presentation you will ever give is the one your adversary never sees. I’d like to repeat that statement: The greatest presentation you will ever give is the one your adversary never sees.
+
+
+Let the grass speak for itself. You can always bring it up later, if the occasion arises. (“Addition by subtraction”: this old sports adage about making your team better by getting rid of a certain player is also true for presentations.)
+
+When this happens, I recommend the calm, quiet “Thanks but no thanks, maybe next time.” To my mind, this fadeaway is far more effective than burning bridges. I hate to see clients burn their bridges, no matter how ill-served they feel. For one thing, it betrays neediness on their part. They wouldn’t feel the temptation to burn bridges if they didn’t have too much invested emotionally. For another, who knows what will happen in the future? Complete changes of heart or mind are not unknown, after all. I just can’t see any advantage to burned bridges except some kind of short-term self-validation, and that kind of neediness is not good enough, not in my system.
+
+
+
+Is it clear that there’s no contradiction between having high self-esteem and allowing your adversary to be okay? Self-esteem is your internal appraisal of yourself as an individual, and nothing can affect it. Okayness is your public presentation of yourself. The difference is huge, obviously. Your own high self-esteem is exactly what allows you to allow your adversary to have all the okayness in the negotiation.
+
+
+: In this world, you must “pay forward” because you can’t really pay others back, not sufficiently.
+
+Achievement requires self-esteem, and to build self-esteem you only need to start paying forward, to pay forward more effectively, at every opportunity, with your family and friends, in the workplace, in your community, in your house of worship, everywhere. And then you should pay forward some more. You will reap the benefit in every aspect of your life, including most definitely the negotiating table.
+
+
+My father did not need the self-satisfaction of getting every last dollar out of every last negotiation. He wanted fair value. If he knew he was getting such value, he was happy to pay full price. I’m the same way. Paying full price, when justified, empowers me to ask full price, when justified. In this world we do usually get what we pay for, remember. We also perform to the level of our self-image.
+
+
+
+• Every negotiation is an agreement between two or more parties with all parties having the right to veto—the right to say “no.”
+• Your job is not to be liked. It is to be respected and effective.
+• Results are not valid goals.
+• Money has nothing to do with a valid mission and purpose.
+• Never, ever, spill your beans in the lobby—or anywhere else.
+• Never enter a negotiation—never make a phone call—without a valid agenda.
+• The only valid goals are those you can control: behavior and activity.
+• Mission and purpose must be set in the adversary’s world; our world must be secondary.
+• Spend maximum time on payside activity and minimum time on nonpayside activity.
+• You do not need it. You only want it.
+• No saving. You cannot save the adversary.
+
+
+
+• Paint the pain.
+• Mission and purpose drive everything.
+• Decisions are 100 percent emotional.
+• Interrogative-led questions drive vision.
+• Nurture.
+• No assumptions. No expectations. Only blank slate.
+• Who are the decision makers? Do you know all of them?
+• Pay forward.
 
 #  Thinking Fast and Slow - Daniel Kahneman (Audiobook)
 I was recommended this book by someone close to me, and so reading it was inevitable. I'm glad I got to it eventually, but I definitely wish I had read it earlier.
