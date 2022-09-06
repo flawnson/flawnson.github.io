@@ -66,4 +66,8 @@ The script left little for exposition and instead focuses on how that history ha
 The action made me wish I had seen it in theatres; symmetrical shots aren't always compelling but in a movie like this it simply looks gorgeous.
 Tom cruise keeps cementing himself as our generation's action star (they need to put him in a movie with Keanu Reeves), and Miles Teller really looks the part he was meant to play.
 
+# Game of Thrones
+
+# House of the Dragon
+
 <p id="modTime"></p>
