@@ -23,6 +23,8 @@ I will continue to move content from Obsidian to this blog as soon as I feel tha
 
 *There's a mix of content types throughout the document. You'll find one-pagers, cheatsheets, article (and series of articles), videos (and series of videos), MOOCs, books, textbooks, and other creative ways education is distributed online. There is a large range in terms of emphasis of attention; some resources are more cosmetically inclined, others are more dense and utility-heavy. But everything here, in my opinion, is well made; or at the very least made with integrity. I am deeply thankful to the creators and providers of such content.*
 
+*One more thing. I would only ever recommend content and give advice once I feel like I've reached the slope of enlightenment part of the dunning kruger graph. This means there are certain things that I'm currently studying or learning and although I'm collecting content and resources, I don't think I'm smart enough to discern good from bad just yet, and so I won't write about it. For example, I'm currently learning Rust and Solana. I hope one day I'll share my notes once I feel reasonably competent.*
+
 > "*'Amateur.' you say that as if it was a dirty word or something, but 'amateur' comes from the Latin word 'amare' which means love... To do something for the love of it.*" - Mozart in the Jungle
 
 # Why Coding?

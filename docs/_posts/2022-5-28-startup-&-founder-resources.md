@@ -44,6 +44,7 @@ I hope this might be useful to you.
 
 ## Building
 * The [Startup Library](https://startuplibrary.co/) is a Notion-esque collection of resources curated by the Launch House in LA.
+* The [Founder Playlist](https://www.pillar.vc/playlist/) is incredibly high quality. Find legal templates, NDAs, offer letters, and so much more.
 
 ## Research
 * See what's trending at [Exploding Topics](https://explodingtopics.com/)

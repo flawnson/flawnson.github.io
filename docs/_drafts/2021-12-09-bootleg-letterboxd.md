@@ -70,4 +70,40 @@ Tom cruise keeps cementing himself as our generation's action star (they need to
 
 # House of the Dragon
 
+## Ep. 1
+
+## Ep. 2
+
+## Ep. 3
+Viserys has officially lost two of his fingers on his left hand from the cut he received when he reprimanded Daemon.
+The white Hart showing itself to Rhaenyra (and Ser Criston) is definitely symbolic for something; especially since she decided not to have it killed.
+King Viserys killing a hart with a Lannister spear is also definitely a sign of something.
+The King's repeated dreams are going to be the death of him.
+THe King's promise to Rhaenyra that she will remain on his first choice for the succession will be kept.
+I give it two episodes (ep. 6) before the young actors are replaced by the older ones.
+
+## Ep. 4
+Rhaenyra is definitely not made for the life of a wife.
+I can't not love Daemon and I swear it's just Matt being too good at his job.
+I love that tender moment of rekindled friendship between Alicent and Rhaenyra.
+The idea that Alicent also despises her duties is something I hadn't considered until this episode...
+The editing at the brothel scene intercut with Viserys and Alicent is inSANE this episode made me feel so unconfortable at so many levels for many reasons...
+- Alicent probably doesn't feel anything because she's had so many babies at this point.
+- In similar spirit, Daemon is also numb to pleasure.
+- Rhaenyra is a horny teen and Ser Criston made a huge mistake.
+The Lannisters have nothing on the Targaryens.
+"I SWeaR tO yOu uPoN tHE MeMOrY oF My mOThER" apparently means nothing now.
+Daemon doesn't even TRY to deny the tryst. I've noticed that he seems to be very truthful in communication. 
+Otto weaponizes the truth. He's the smartest member of the court. Viserys should have dealt with him better and far earlier.
+Viserys is not looking good. I think his bloodline is kind of prone to disease. His dad died of a burst belly and now he's just a walking corpse.
+
+## Ep. 5
+Lady Rhea Royce was a fantastic character and so easy to fall in love with; too bad Daemon doesn't feel the same.
+Daemon hates situations where he isn't in control and he hates people who don't put up with his shit. I think his occasional impotence stems from this as well.
+Criston isn't very smart. It's incredibly naive to think that Rhaenyra would ditch the crown for him.
+Alicent feels betrayed but Rhaenyra technically didn't lie to her; she didn't sleep with Daemon!
+I think Corlys is ok with the whole last name thing because he knows that he can deal with that after Viserys has died.
+Harwin "Breakbones" Strong is quickly becoming one of my favorite characters. I also love the brotherly dynamic between him and Larys.
+This is the second time we see a Joffrey killed at a wedding in the GOT universe.
+
 <p id="modTime"></p>
