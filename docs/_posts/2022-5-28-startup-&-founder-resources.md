@@ -48,6 +48,7 @@ I hope this might be useful to you.
 
 ## Research
 * See what's trending at [Exploding Topics](https://explodingtopics.com/)
+* As a former researcher, I used a lot of unpaywall and sci-hub to access hard to reach papers. Run into a paywall? Use [12ft.io](https://12ft.io/). Works on Medium, Bloomberg, you name it!
 
 ## News Feeds
 * Stories of both successful and especially failed startups you can learn from at [Failory](https://www.failory.com/)

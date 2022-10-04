@@ -106,4 +106,30 @@ I think Corlys is ok with the whole last name thing because he knows that he can
 Harwin "Breakbones" Strong is quickly becoming one of my favorite characters. I also love the brotherly dynamic between him and Larys.
 This is the second time we see a Joffrey killed at a wedding in the GOT universe.
 
+## Ep. 6
+Lynel is such a good guy, it kinda sucks that he's being dragged into this mess despite trying his best. It kind of reminds me of Viserys himself.
+Rhaenyra is actually making strides in her political gaming, the offer of marriage between her son and Alicent's daughter was a great plus an egg to boot! Well played.
+Viserys is losing power fast, it's ridiculous that he just lets everyone around him scheme.
+"He must close one eye first"... Halaena do foreshadowing though.
+Interesting that Criston isn't wearing his cloak anymore...
+High key Criston is a simp.
+Daemon faced with the same question that Viserys was, and he makes the right one.
+It's so interesting to me that the dragons are obedient enough as to kill their own master.
+The last thing Harwin says to Rhaenyra is that when they next meet, he will be "a stranger". He dies immediately after. Could the stranger be one of the gods in the faith of the 7, he who represents death?
+Did Larys literally have his brother and dad killed? This guy needs to be put down.
+
+## Ep. 7
+I hate funerals :(
+DID HE JUST CALL HER AEMMA LMAOO
+It's crazy to me that Corlys thinks Rhaenys should be queen more than she does. It makes me sad that they can't agree on this.
+It also says a lot how Corlys wanted Rhaenys on the throne not necessarily because he believes that it was her right, but because it would have put his bloodline on the throne.
+I gotta say, Aemon totally earned Vhagar.
+Kids are such a nasty business.
+Viserys cannot help but sound like a goddamn child when dealing with the situation...
+Alicent still picks at her hands.
+We play an ugly game is such an underrated line.
+Let's be real here Otta would trade a dragon for any one of his grandsons in a heartbeat.
+Rhaenyra and Laenor continue to be a surprisingly fantastic couple.
+Happy for Laenor but I feel so bad for the Valaryons.
+
 <p id="modTime"></p>
