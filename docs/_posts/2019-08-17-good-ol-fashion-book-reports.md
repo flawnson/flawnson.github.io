@@ -784,4 +784,95 @@ Atomic habits may be the catalyst for your version 2.0.
 - The final chapter, "Little lessons from the Four Laws" is so good that I won't even bother quoting because you should just read the whole chapter.
 - Remember the Diderot effect, Premack's Principle, the Sorites Paradox,
 
+
+# Talking to Humans - Giff Constable, Frank Rimalovski
+I was browsing the EF cohort Wiki and came across this book as a required read right next to The Mom Test by Rob Fitzpatrick.
+After seeing that it was 80-some odd pages, I spent an hour to breeze through it.
+Like TMT, Talking to Humans is an in depth look at how customer discovery is performed.
+There is an art and a science to getting good data from field work.
+Given that this book was written before TMT, it's no wonder that the two share similar DNA.
+Both are meant to be very bare bones and straight to the point, with no wasted words and plenty of examples to chew on.
+You can read the [free PDF here](https://s3.amazonaws.com/TalkingtoHumans/Talking+to+Humans.pdf).
+
+## Key takeaways
+Every new business idea is built upon a stack of assumptions.
+We agree with Steve Blank’s insight that it is better to challenge your risky assumptions right at the start.
+You can’t challenge anything sitting in a conference room.
+You have to get into the market, or, as Blank likes to say, “Get out of the building!”
+There are two effective ways to do this:
+1. talk directly to your customers and partners, and observe their behavior;
+2. run experiments in which you put people through an experience and track what happens.
+
+By walking in your customer’s shoes you will gain empathy and personal understanding, but you don’t want to rely solely on your own experience.
+By watching people shop, you can witness honest behavior, but you won’t be able to get into their heads to know their motivations.
+By talking to people, you gather intel on both behavior and motivation, but you have to be careful not to take what you hear too literally.
+
+So what are the key takeaways from Roberta and Koshi’s adventure?
+1. Customer discovery is about gaining much deeper insight into
+   your customer, or your partners, or your market
+2. Being told your idea is cool is not useful; seeing behavior that
+   validates your customer’s willingness to buy is very useful
+3. Prepare an interview guide before you get out of the building
+4. To ask the right questions, you need to understand your risks
+   and assumptions
+5. Get creative when trying to recruit people — if at first you don’t
+   succeed, try something new
+6. Sometimes observation is as powerful as interviews
+7. Take good notes, especially on your key risks, so that you can
+   calculate metrics later. Even better, set your target goals ahead of
+   time!
+8. Bring learning back and analyze your patterns as a team
+9. Never stop asking hard questions about your business
+
+Questions you should ask yourself before starting customer discovery:
+• Who do you want to learn from?
+• What do you want to learn?
+• How will you get to them?
+• How can you ensure an effective session?
+• How do you make sense of what you learn?
+
+How to think about your ICP and the people you need to talk to:
+• The typical customer you envision if you get traction with your
+idea
+• Your early adopter, i.e. the people who will take a chance on your
+product before anyone else
+• Critical partners for distribution, fulfillment, or other parts of
+your business
+
+In a classic enterprise sale, you will often have the following types of people. Can you identify your champion? Can you identify who might be a saboteur?:
+1. A strategic buyer (who is excited about the change you can bring)
+2. An economic buyer (who controls the purse)
+3. A technical buyer (who might have approval/blocker rights)
+4. Finally, the actual users of your product.
+
+You should be able to answer these most important questions
+• My target customer will be?
+• The problem my customer wants to solve is?
+• My customer’s need can be solved with?
+• Why can’t my customer solve this today?
+• The measurable outcome my customer wants to achieve is?
+• My primary customer acquisition tactic will be?
+• My earliest adopter will be?
+• I will make money (revenue) by?
+• My primary competition will be?
+• I will beat my competitors primarily because of?
+• My biggest risk to financial viability is?
+• My biggest technical or engineering risk is?
+• What assumptions do we have that, if proven wrong, would cause this business to fail? (Tip: include market size in this list)
+
+The key thing to remember is that people don’t honestly think about willingness to pay unless they feel like it is a real transaction
+
+Some people like to ask, “if you could wave a magic wand and have this product do whatever you want, what would it do?”.
+Personally, I avoid questions like this because customers are too constrained by their current reality to design effective solutions.
+It is the customer’s job to explain their behavior, goals, and challenges.
+It is the product designer’s job to come up with the best solution.
+There is one variation to the magic wand question that I do like, however, because it focuses on problems and not solutions: “If you could wave a magic wand and solve any problem, what would you want to solve?” I suspect, however, that you will find many people struggle with such an open question.
+
+If you can connect with people at the moment of their theoretical pain, it can be very illuminating.
+
+Your goal is not to learn for learning’s sake.
+Your goal is to make better decisions that increase the odds of success.
+So how do you translate your observations into decisions?
+The first step is to make sense of your patterns.
+
 <p id="modTime"></p>

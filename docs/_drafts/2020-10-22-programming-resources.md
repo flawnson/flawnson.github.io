@@ -129,8 +129,9 @@ Machine Learning doesn't require a serious technical background in computer scie
 ### Learning
 
 - [DevDocs](https://devdocs.io/) is an open source collection of API and framework documentations all in one searchable tree.
-- [OverAPI](https://overapi.com/) is another web portal with links to many different languages and frameworks and their top resources
+- [OverAPI](https://overapi.com/) is another web portal with links to many languages and frameworks and their top resources
 - [CSS-Tricks](https://css-tricks.com/) is great, especially their article on flexbox.
+- [High Scalability](http://highscalability.com/) is super legit. I had to revisit it 6 months after I discovered it to even comprehend what I was reading.
 
 ### Growing
 
@@ -149,6 +150,7 @@ Machine Learning doesn't require a serious technical background in computer scie
 
 ### Marketing
 
+- The number of things I have to reluctantly provide my email for is annoying; use [TempMail](https://temp-mail.org/en/) for a quick throwaway email! It even works as a "corporate email" ;)
 - Whenever you need to screenshot your code use [ray.so](ray.so) or [carbon.now.sh](carbon.now.sh).
 - Make Tweets and other posts look elegant with [poet.so](poet.so).
 
