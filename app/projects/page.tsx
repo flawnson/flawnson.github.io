@@ -1,10 +1,8 @@
 import projectsData from '@/data/projectsData'
 import Card from '@/components/Card'
 import { genPageMetadata } from 'app/seo'
-import { redirect } from 'next/navigation'
 
 export const metadata = genPageMetadata({ title: 'Projects' })
-redirect('/')
 
 export default function Projects() {
   return (
